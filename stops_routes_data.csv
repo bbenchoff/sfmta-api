@@ -1,0 +1,3275 @@
+Stop Number,Total Routes,Description,Route 1,Route 2,Route 3,Route 4,Route 5,Route 6,Route 7,Route 8,Route 9,Route 10,Route 11,Route 12,Route 13
+15829,1,100 O'Shaughnessy Blvd,44
+13230,2,10th Ave & Ortega St,6,6
+13232,1,10th Ave & Pacheco St,6
+13231,2,10th Ave & Pacheco St,6,6
+13233,2,10th Ave & Quintara St,6,6
+13234,1,10th Ave & Quintara St,6
+14828,1,1100 Lake Merced Blvd,58
+14829,1,1100 Lake Merced Blvd,58
+16651,1,115 Telegraph Hill Blvd,39
+16907,1,117 Warren Dr,36
+13235,2,11th St & Bryant St,90,9
+13239,4,11th St & Harrison St,90,9,9,9R
+13238,5,11th St & Harrison St,9R,27,90,9,12
+13241,3,11th St & Howard St,90,9,9
+13240,2,11th St & Howard St,90,9
+13245,0,11th St & Market St
+13244,0,11th St & Market St
+13243,3,11th St & Mission St,90,9,9
+16009,2,120 Portola Dr,37,LOWL
+15513,1,126 Miraloma Dr,43
+13247,0,14th Ave & Quintara St
+13248,2,14th Ave & Santiago St,48,48
+13250,2,14th Ave & Taraval St,48,48
+13249,1,14th Ave & Taraval St,48
+13252,1,14th Ave & Ulloa St,48
+13251,2,14th Ave & Ulloa St,48,48
+13253,1,14th St & Alpine Ter,37
+13257,1,14th St & Castro St,37
+13256,1,14th St & Castro St,37
+13254,0,14th St & Church St
+13255,0,14th St & Church St
+13259,1,14th St & Noe St,37
+13258,1,14th St & Noe St,37
+13260,1,14th St & Sanchez St,37
+13261,1,14th St & Sanchez St,37
+15835,1,150 Otis St,14
+13262,1,15th Ave & Noriega St,66
+13263,1,15th Ave & Ortega St,66
+13264,1,15th Ave & Pacheco St,66
+13265,1,15th Ave & Quintara St,66
+13266,2,15th Ave & Taraval St,LOWL,L
+13267,1,15th Ave & Taraval St,LOWL
+13270,1,15th Ave & West Portal Ave,57
+13614,1,164 Addison  St,35
+14795,3,1650 Geneva Ave,8,8BX,91
+14796,4,1650 Geneva Ave,8BX,8,91,8
+13188,3,1697 7th Ave,43,36,44
+13189,2,1697 7th Ave,44,43
+13273,1,16th Ave & Lawton St,66
+13272,2,16th Ave & Lawton St,66,66
+13275,1,16th Ave & Lomita Ave,66
+13276,2,16th Ave & Moraga St,66,66
+13277,1,16th Ave & Moraga St,66
+13278,2,16th Ave & Noriega St,66,66
+17231,1,16th Avenue & Lawton Street,66
+13279,2,16th Ave & Ortega St,66,66
+13280,2,16th Ave & Pacheco St,66,66
+17764,1,16th St & 4th St,22
+13282,0,16th St & Bryant St
+13281,0,16th St & Bryant St
+13283,1,16th St & Church St,22
+13285,2,16th St & Dolores St,22,22
+13284,1,16th St & Dolores St,22
+17289,4,16th St & Folsom St,55,22,33,33
+13292,1,16th St & Mission St,33
+13291,1,16th St & Mission St,55
+13293,0,16th St & Mission St
+17763,1,16th St & Missouri St,22
+17866,1,16th St & Owen St,22
+13296,2,16th St & Potrero Ave,33,55
+13295,3,16th St & Potrero Ave,55,33,33
+17767,2,16th Street & 4th Street,22,22
+17768,2,16th Street & Missouri St,22,22
+17865,2,16th Street & Owen St,22,22
+17770,3,16th Street & Rhode Island St,22,22,55
+17769,3,16th Street & Wisconsin St,22,22,55
+17761,2,16th St& Rhode Island St,55,22
+13299,4,16th St & Shotwell St,33,55,22,22
+13301,2,16th St & Valencia St,22,22
+13300,1,16th St & Valencia St,22
+17762,2,16th St & Wisconsin St,55,22
+13799,1,170 Buckingham Way,57
+14798,3,1721 Geneva Ave,8,8BX,91
+16565,2,1725 Sunnydale Ave,9,9R
+14799,4,1750 Geneva Ave,8BX,8,91,8
+16186,1,176 Rhode Island St,19
+17572,2,17th Ave & Quintara St,48,48
+13305,2,17th Ave & Rivera St,48,48
+13304,1,17th Ave & Rivera St,48
+13306,1,17th Ave & Santiago St,48
+13307,1,17th St & Belvedere St,37
+13311,0,17th St & Castro St
+13309,1,17th St & Clayton St,37
+13310,1,17th St & Cole St,37
+13314,1,17th St & Diamond St,37
+13318,0,17th St & Noe St
+16566,2,1800 Sunnydale Ave,9,9R
+13326,0,18th St & Castro St
+13325,0,18th St & Castro St
+13322,2,18th St & Church St,33,33
+13323,1,18th St & Church St,33
+13327,2,18th St & Danvers St,33,33
+13328,1,18th St & Danvers St,33
+13329,1,18th St & Diamond St,33
+13330,2,18th St & Dolores St,33,33
+13331,1,18th St & Dolores St,33
+13332,2,18th St & Eureka St,33,33
+13334,1,18th St & Guerrero St,33
+13333,2,18th St & Guerrero St,33,33
+13335,2,18th St & Hattie St,33,33
+13336,1,18th St & Hattie St,33
+13339,2,18th St & Market St,33,33
+13338,0,18th St & Mission St
+13341,1,18th St & Noe St,33
+13340,2,18th St & Noe St,33,33
+13344,2,18th St & Sanchez St,33,33
+13345,1,18th St & Sanchez St,33
+13348,2,18th St & Valencia St,33,33
+13349,1,18th St & Valencia St,33
+16567,2,1900 Sunnydale Ave,9,9R
+16568,2,1901 Sunnydale Ave,9,9R
+13800,1,190 Buckingham Way,57
+13352,0,19th Ave & Buckingham Way
+13355,2,19th Ave & Eucalyptus Dr,91,28
+13354,2,19th Ave & Eucalyptus Dr,28,91
+13358,0,19th Ave & Holloway Ave
+13356,0,19th Ave & Holloway Ave
+17065,0,19th Ave & Holloway Ave
+13359,2,19th Ave & Irving St,28,91
+13360,2,19th Ave & Irving St,91,28
+13365,1,19th Ave & Judah St,91
+13364,1,19th Ave & Judah St,91
+13363,1,19th Ave & Junipero Serra Blvd,28
+13362,2,19th Ave & Junipero Serra Blvd,28,28
+13361,3,19th Ave & Junipero Serra Blvd,M,M,M
+13368,2,19th Ave & Lawton St,91,28
+13369,2,19th Ave & Lawton St,28,91
+13371,2,19th Ave & Lincoln Way,28,91
+13374,3,19th Ave & Noriega St,28R,91,28
+13375,3,19th Ave & Noriega St,28R,28,91
+10390,0,19th Avenue & Holloway St
+13379,2,19th Ave & Ortega St,91,28
+13380,2,19th Ave & Ortega St,28,91
+13384,3,19th Ave & Quintara St,28R,28,91
+13383,3,19th Ave & Quintara St,28R,91,28
+13387,1,19th Ave & Randolph St,M
+13376,1,19th Ave & Randolph St,M
+13385,3,19th Ave & Randolph St,M,M,M
+13388,2,19th Ave & Rivera St,91,28
+13389,2,19th Ave & Rivera St,28,91
+13390,2,19th Ave & Sloat Blvd,28,91
+13391,2,19th Ave & Sloat Blvd,91,28
+13394,3,19th Ave & Taraval St,28R,91,28
+13395,3,19th Ave & Taraval St,28R,28,91
+13399,2,19th Ave & Vicente St,28,91
+13398,2,19th Ave & Vicente St,91,28
+13403,1,19th Ave & Winston Dr,M
+17448,3,19th Ave & Winston Dr,28R,28,91
+13402,3,19th Ave & Winston Dr,28R,91,28
+17449,3,19th Ave & Winston Dr,M,M,M
+17887,2,201 Bayshore Blvd E,90,9
+13405,1,20th Ave & Buckingham Way,57
+13404,1,20th Ave & Buckingham Way,57
+17211,1,20th Ave/Stonestown Mall,57
+13408,4,20th Ave & Winston Dr,18,57,18,58
+13409,1,20th Ave & Winston Dr,57
+13406,1,20th Av/Stonestown Mall,57
+13410,0,20th St & 3rd St
+13414,1,20th St & Collingwood St,35
+13415,1,20th St & Eureka St,35
+18064,1,20th St & Missouri St,55
+18045,1,20th St & Missouri St,55
+18046,1,20th St & Pennsylvania Ave,55
+14162,1,210 Corbett Ave,37
+14163,1,211 Corbett Ave,37
+13424,1,21st St & Douglass St,35
+16653,1,225 Telegraph Hill Blvd,39
+16652,1,225 Telegraph Hill Blvd,39
+13768,3,228 Bayshore Blvd,90,9,9
+13425,1,22nd Ave & Irving St,7
+13426,1,22nd Ave & Judah St,7
+13427,1,22nd Ave & Kirkham St,7
+13428,1,22nd Ave & Lawton St,7
+13429,1,22nd Ave & Lincoln Way,7
+13430,1,22nd Ave & Moraga St,7
+13431,1,22nd Ave & Noriega St,7
+18133,1,22nd St & Illinois St,48
+13439,0,22nd St & Iowa St
+13435,0,22nd St & Iowa St
+13436,1,22nd St & Minnesota St,55
+13437,2,22nd St & Minnesota St,55,48
+13441,1,23rd Ave & Irving St,7
+13442,1,23rd Ave & Judah St,7
+13443,1,23rd Ave & Kirkham St,7
+13444,1,23rd Ave & Lawton St,7
+13445,1,23rd Ave & Lincoln Way,7
+13446,1,23rd Ave & Moraga St,7
+13447,1,23rd Ave & Noriega St,7
+18134,1,23rd St & 3rd St,48
+13450,0,23rd St & Kansas St
+13452,2,23rd St & Rhode Island St,48,19
+13454,1,23rd St & Utah St,48
+13453,3,23rd St & Utah St,48,48,48
+13456,1,23rd St & Vermont St,48
+13455,3,23rd St & Vermont St,48,48,48
+13458,3,24th St & Bryant St,48,48,48
+13459,1,24th St & Bryant St,48
+13463,1,24th St & Castro St,48
+13462,0,24th St & Castro St
+13461,1,24th St & Church St,48
+13460,3,24th St & Church St,48,48,48
+13465,1,24th St & Diamond St,35
+13467,1,24th St & Dolores St,48
+13466,3,24th St & Dolores St,48,48,48
+13468,1,24th St & Douglass St,35
+13470,1,24th St & Folsom St,48
+13469,4,24th St & Folsom St,48,67,48,48
+13472,1,24th St & Guerrero St,48
+13471,3,24th St & Guerrero St,48,48,48
+13474,1,24th St & Harrison St,48
+13473,3,24th St & Harrison St,48,48,48
+13475,1,24th St & Hoffman Ave,35
+13477,0,24th St & Mission St
+13476,0,24th St & Mission St
+13478,3,24th St & Noe St,48,48,48
+17263,1,24th St & Noe St,48
+13480,3,24th St & Potrero Ave,48,48,48
+13482,1,24th St & Sanchez St,48
+13481,3,24th St & Sanchez St,48,48,48
+13484,1,24th St & South Van Ness Ave,48
+13483,4,24th St & South Van Ness Ave,48,67,48,48
+13485,3,24th St & Valencia St,48,48,48
+13486,1,24th St & Valencia St,48
+13489,1,25th Ave & Balboa St,29
+13490,2,25th Ave & Balboa St,29,29
+13491,0,25th Ave & California St
+13492,2,25th Ave & California St,29,29
+18135,0,25th Ave & California St
+13496,2,25th Ave & Clement St,29,29
+13495,1,25th Ave & Clement St,29
+13497,2,25th Ave & El Camino Del Mar,29,29
+13498,2,25th Ave & El Camino Del Mar,29,29
+13499,1,25th Ave & Fulton St,29
+13500,1,25th Ave & Geary Blvd,29
+13501,2,25th Ave & Geary Blvd,29,29
+17525,1,25th Avenue & Dakota Street,48
+13505,2,25th St & Connecticut St,19,48
+13504,3,25th St & Connecticut St,48,48,48
+13507,3,25th St & Dakota St,48,48,48
+13510,0,25th St & Noe St
+13511,0,25th St & Potrero Ave
+13512,3,25th St & Wisconsin St,48,48,48
+13514,2,26th St & Castro St,24,24
+13517,2,26th St & De Haro St,19,48
+13516,4,26th St & De Haro St,48,48,19,48
+13520,2,26th St & Noe St,24,24
+13521,2,26th St & Noe St,24,24
+13522,4,26th St & Rhode Island St,48,48,19,48
+13524,4,26th St & Wisconsin St,48,48,19,48
+16321,1,274 Sagamore St,54
+13801,1,280 Buckingham Way,57
+13802,1,281 Buckingham Way,57
+13525,1,29th Ave & Vicente St,66
+17836,0,30th Ave & Geary Blvd
+13526,1,30th Ave & Quintara St,66
+13527,1,30th Ave & Quintara St,66
+13528,1,30th Ave & Rivera St,66
+13529,1,30th Ave & Rivera St,66
+13531,1,30th Ave & Santiago St,66
+13530,1,30th Ave & Santiago St,66
+13533,0,30th Ave & Taraval St
+13532,0,30th Ave & Taraval St
+13534,1,30th Ave & Ulloa St,66
+13536,2,30th St & Church St,24,24
+13535,2,30th St & Church St,24,24
+13537,5,30th St & Dolores St,36,J,J,24,24
+13538,4,30th St & Dolores St,J,36,24,24
+13541,0,30th St & Mission St
+13540,0,30th St & Mission St
+13542,2,30th St & Noe St,24,24
+13544,2,30th St & Sanchez St,24,24
+13543,2,30th St & Sanchez St,24,24
+14164,1,328 Corbett Ave,37
+17837,0,32nd Ave & Anza St
+13546,3,32nd Ave & California St,1X,1,1
+13547,2,32nd Ave & California St,1X,1
+13549,2,32nd Ave & Clement St,1X,1
+13548,3,32nd Ave & Clement St,1X,1,1
+13550,1,32nd Ave & Geary Blvd,1
+15634,1,33 Moffitt St,35
+13552,2,33rd Ave & Anza St,18,18
+13551,2,33rd Ave & Anza St,38,18
+13554,2,33rd Ave & Balboa St,38,18
+13553,2,33rd Ave & Balboa St,18,18
+13555,5,33rd Ave & Clement St,1X,18,1,18,1
+13556,2,33rd Ave & Clement St,1X,18
+13560,0,33rd Ave & Geary Blvd
+13559,0,33rd Ave & Geary Blvd
+13558,0,33rd Ave & Geary Blvd
+13557,0,33rd Ave & Geary Blvd
+14165,1,341 Corbett Ave,37
+16908,1,345 Warren Dr E,36
+16942,1,356 Wilde Ave,56
+13561,2,36th Ave & Lincoln Way,29,29
+13562,1,37th Ave & Lincoln Way,29
+17835,0,37th Ave & Ortega St
+16348,5,3800 San Bruno Ave,90,8,9,9,8AX
+16350,5,3801 San Bruno Ave,8AX,56,90,9,8
+13563,1,39th Ave & Quintara St,48
+13565,1,39th Ave & Rivera St,48
+13564,1,39th Ave & Rivera St,48
+13103,0,3rd St & 20th St
+13104,0,3rd St & 20th St
+17473,1,3rd St & 22nd St,55
+13107,2,3rd St & 23rd St,TBUS,91
+13108,2,3rd St & 23rd St,TBUS,91
+13016,2,3rd St & 4th St,TBUS,91
+13113,2,3rd St & Bayview St,TBUS,91
+13114,8,3rd St & Brannan St,30,TBUS,30,15,45,91,45,30
+13144,9,3rd St & Bryant St,30,8AX,30,45,91,45,8BX,30,8
+13115,1,3rd St & Carroll Ave,91
+13116,2,3rd St & Carroll Ave,TBUS,91
+13123,3,3rd St & Evans Ave,TBUS,15,91
+17320,2,3rd St & Fitzgerald Ave,TBUS,91
+13124,10,3rd St & Folsom St,30,8AX,TBUS,30,45,91,45,8BX,30,8
+17324,5,3rd St & Gene Friend Way,TBUS,15,22,91,22
+13127,3,3rd St & Hudson Ave,TBUS,91,54
+13129,3,3rd St & Innes Ave,54,TBUS,91
+13135,3,3rd St & Kirkwood Ave,54,TBUS,91
+13134,3,3rd St & La Salle Ave,TBUS,91,54
+13143,3,3rd St & Oakdale Ave,54,TBUS,91
+13141,2,3rd St & Palou Ave,TBUS,91
+17171,2,3rd St & Paul Ave,TBUS,91
+17961,2,3rd Street & Evans Ave,TBUS,15
+13145,2,3rd St & Revere Ave,TBUS,91
+13146,2,3rd St & Salinas Ave,TBUS,91
+13136,7,3rd St & Stevenson St,8AX,15,45,91,45,8BX,8
+13149,2,3rd St & Van Dyke Ave,TBUS,91
+17321,4,3rd St & Warriors Way,TBUS,22,15,91
+13150,2,3rd St & Williams Ave,TBUS,91
+16909,1,400 Warren Dr E,36
+15573,2,4080 Mission St,49,14
+14209,1,40 Crestline Dr,37
+16230,1,414 Roosevelt Way,37
+16231,1,415 Roosevelt Way,37
+13566,2,42nd Ave & Clement St,38,38
+13567,2,43rd Ave & Clement St,38,38
+13568,2,43rd Ave & Point Lobos Ave,38,38
+16910,1,455 Warren Dr,36
+13571,2,45th Ave & Balboa St,18,31
+13570,5,45th Ave & Balboa St,18,31,18,31,31
+13572,5,45th Ave & Cabrillo St,18,31,18,31,31
+13573,2,45th Ave & Cabrillo St,18,31
+13613,1,46 Addison St,35
+13575,2,46th Ave & Irving St,18,18
+13574,1,46th Ave & Irving St,18
+13577,0,46th Ave & Judah St
+13576,0,46th Ave & Judah St
+13578,1,46th Ave & Kirkham St,18
+13579,2,46th Ave & Kirkham St,18,18
+13580,1,46th Ave & Lawton St,18
+13581,2,46th Ave & Lawton St,18,18
+13583,1,46th Ave & Lincoln Way,18
+13582,2,46th Ave & Lincoln Way,18,18
+13585,2,46th Ave & Moraga St,18,18
+13584,1,46th Ave & Moraga St,18
+13586,2,46th Ave & Noriega St,18,18
+13587,1,46th Ave & Noriega St,18
+13588,1,46th Ave & Ortega St,18
+13589,2,46th Ave & Ortega St,18,18
+13590,1,46th Ave & Pacheco St,18
+13591,2,46th Ave & Pacheco St,18,18
+13593,3,46th Ave & Quintara St,18,48,18
+13592,1,46th Ave & Quintara St,18
+13594,1,46th Ave & Rivera St,18
+13595,2,46th Ave & Rivera St,18,18
+13596,1,46th Ave & Santiago St,18
+13597,2,46th Ave & Santiago St,18,18
+13599,6,46th Ave & Taraval St,LOWL,18,L,L,18,L
+17892,1,46th Ave & Taraval St,LOWL
+13598,1,46th Ave & Taraval St,18
+13600,3,46th Ave & Ulloa St,LOWL,18,L
+13601,6,46th Ave & Ulloa St,LOWL,18,L,L,18,L
+13603,6,46th Ave & Vicente St,LOWL,18,L,L,18,L
+13602,3,46th Ave & Vicente St,LOWL,18,L
+13604,0,46th Ave & Wawona St
+17869,0,47th Ave & Cutler Ave
+13605,1,47th Ave & Noriega St,7
+13606,0,47th Ave & Wawona St
+13608,0,48th Ave & Point Lobos Ave
+17872,0,4th & Brannan Southbound
+13153,2,4th St & 3rd St,TBUS,91
+17366,2,4th St & Berry St,15,91
+13156,2,4th St & Brannan St,TBUS,91
+13158,7,4th St & Folsom St,8,TBUS,30,45,91,8AX,8BX
+17405,0,4th St & King St
+17166,0,4th St & King St
+17397,0,4th St & King St
+13161,5,4th St & Market St,8,TBUS,91,8AX,8BX
+13160,7,4th St & Mission St,8,15,30,45,91,8AX,8BX
+13164,0,4th St & Townsend St
+15887,2,500 Parnassus Ave,43,6
+14575,0,50 Thomas Mellon Dr
+17688,3,513 Parnassus Ave,6,6,43
+14359,1,5157 Diamond Heights Blvd,52
+15126,1,515 John Muir Dr,58
+15125,1,515 John Muir Dr,58
+14166,1,539 Corbett Ave,37
+15450,2,555 Myra Way,36,36
+15451,2,555 Myra Way,36,36
+17622,2,5th St & Brannan St,45,31
+13168,1,5th St & Folsom St,31
+17214,1,5th St & Folsom St,31
+13173,1,5th St & Mission St,31
+18011,1,5th Street & Natoma Ave,31
+16658,1,636 Teresita Blvd,36
+16659,1,636 Teresita Blvd,36
+15130,1,655 John Muir Ave,58
+15129,1,655 John Muir Ave,58
+16008,2,6 Portola Dr,37,LOWL
+13177,1,6th Ave & Balboa St,44
+13178,1,6th Ave & Balboa St,44
+13181,1,6th Ave & Clement St,44
+13180,1,6th Ave & Clement St,44
+13183,0,6th Ave & Fulton St
+13185,0,6th Ave & Geary Blvd
+13184,0,6th Ave & Geary Blvd
+14210,1,74 Crestline Dr,37
+14167,1,795 Corbett Ave,37
+15253,3,7th Ave & Laguna Honda,43,36,44
+17308,1,7th Ave & Lawton St,36
+13191,1,7th St & Brannan St,19
+16999,1,7th St & Bryant St,19
+13192,2,7th St & Folsom St,27,19
+13193,1,7th St & Harrison St,19
+13194,2,7th St & Howard St,27,19
+18047,0,7th St & Market St
+13196,0,7th St & Market St
+13195,2,7th St & Mission St,27,19
+14168,1,800 Corbett Ave,37
+17023,1,831 Ellsworth St,67
+13201,1,8th Ave & Fulton St,44
+13202,1,8th Ave & Fulton St,44
+17926,2,8th Ave & Judah Ave,66,66
+13203,0,8th St & Brannan St
+13204,1,8th St & Bryant St,19
+13205,2,8th St & Folsom St,19,27
+13206,1,8th St & Harrison St,19
+17677,2,8th St & Howard,19,27
+13209,1,8th St & Market St,19
+13208,1,8th St & Mission St,27
+16660,1,900 Teresita Blvd,36
+16661,1,900 Teresita Blvd,36
+14565,1,909 Ellsworth St,67
+13797,1,90 Buckingham Way,57
+13798,1,91 Buckingham Way,57
+14169,1,925 Corbett Ave,37
+14566,1,945 Ellsworth St,67
+14170,1,956 Corbett Ave,37
+14567,1,989 Ellsworth St,67
+17999,3,9th Ave & Irving St,NOWL,NBUS,N
+13211,1,9th Ave & Irving St,44
+13213,1,9th Ave & Irving St,44
+13214,0,9th Ave & Judah St
+13215,0,9th Ave & Judah St
+13216,4,9th Ave & Kirkham St,43,6,66,44
+13217,4,9th Ave & Kirkham St,6,44,6,43
+13219,2,9th Ave & Lawton St,6,6
+13218,4,9th Ave & Lawton St,43,6,66,44
+13220,1,9th Ave & Lincoln Way,44
+13221,1,9th Ave & Lincoln Way,44
+13223,2,9th Ave & Moraga St,6,6
+13222,1,9th Ave & Moraga St,6
+13225,2,9th Ave & Noriega St,6,6
+13224,1,9th Ave & Noriega St,6
+13226,1,9th Ave & Ortega St,6
+17560,1,9th St & Avenue D,25
+13229,1,9th St & Avenue H,25
+13615,1,Addison St & Diamond Heights Blvd,35
+13616,1,Addison  St & Digby St,35
+13617,1,Addison  St & Farnum St,35
+13618,1,Addison  St & Farnum St,35
+13619,2,Alana Way & Executive Park Blvd,56,56
+13621,0,Alemany Blvd & Arch St
+13622,0,Alemany Blvd & Arch St
+17626,1,Alemany Blvd & Flosom St,67
+13628,3,Alemany Blvd & St Charles Ave,58,57,54
+13631,1,Alemany Blvd & Victoria St,54
+13630,1,Alemany Blvd & Victoria St,54
+13641,2,Arch St & Alemany Blvd,57,58
+17820,2,Arch St & Alemany St,58,57
+13642,1,Arguello Blvd & Balboa St,33
+13644,1,Arguello Blvd & California St,33
+13643,0,Arguello Blvd & California St
+13645,1,Arguello Blvd & Clement St,33
+13647,2,Arguello Blvd & Euclid Ave,33,33
+13648,2,Arguello Blvd & Fulton St,33,33
+17839,0,Arguello Blvd & Geary Blvd
+13650,2,Arguello Blvd & Geary Blvd,33,33
+13649,1,Arguello Blvd & Geary Blvd,33
+13651,2,Arguello Blvd & Turk St,33,33
+17220,1,Ashbury St & Clayton St,33
+13659,2,Ashbury St & Clayton St,33,33
+13656,2,Ashbury St & Clifford Ter,33,33
+13657,1,Ashbury St & Clifford Ter,33
+13661,2,Ashbury St & Frederick St,33,33
+17295,1,Ashbury St & Frederick St,33
+13662,3,Ashbury St & Haight St,37,33,33
+13664,2,Ashbury St & Piedmont St,33,33
+13663,1,Ashbury St & Piedmont St,33
+13666,2,Ashbury St & Waller St,33,33
+13665,1,Ashbury St & Waller St,33
+13681,1,Avalon Ave & La Grande Ave,54
+13680,1,Avalon Ave & La Grande Ave,54
+13682,1,Avalon Ave & Peru Ave,54
+17004,1,Avenue B & 9th Ave,25
+13670,1,Avenue B & Gateview Ave,25
+17558,0,Avenue H & 13th St
+13686,1,Bacon St & Girard St,54
+13685,1,Bacon St & Girard St,54
+13687,1,Bacon St & Goettingen St,54
+13688,1,Bacon St & Goettingen St,54
+13019,0,Bacon St & San Bruno Ave
+13018,0,Bacon St & San Bruno Ave
+13020,1,Bacon St & Somerset St,54
+13021,1,Bacon St & Somerset St,54
+13023,2,Baker Beach Parking Lot Sw,29,29
+13024,1,Baker St & Greenwich St,45
+15418,0,Balboa Park BART/Mezzanine Level
+13039,3,Balboa St & 10th Ave,31,31,31
+13038,1,Balboa St & 10th Ave,31
+13041,3,Balboa St & 12th Ave,31,31,31
+13040,1,Balboa St & 12th Ave,31
+13044,3,Balboa St & 17th Ave,31,31,31
+13043,1,Balboa St & 17th Ave,31
+13046,3,Balboa St & 19th Ave,31,31,31
+13045,1,Balboa St & 19th Ave,31
+13048,3,Balboa St & 21st Ave,31,31,31
+13047,1,Balboa St & 21st Ave,31
+13049,1,Balboa St & 23rd Ave,31
+13050,3,Balboa St & 23rd Ave,31,31,31
+13052,3,Balboa St & 25th Ave,31,31,31
+13051,1,Balboa St & 25th Ave,31
+13053,1,Balboa St & 28th Ave,31
+13054,3,Balboa St & 28th Ave,31,31,31
+13055,1,Balboa St & 30th Ave,31
+13056,3,Balboa St & 30th Ave,31,31,31
+13057,1,Balboa St & 32nd Ave,31
+13058,3,Balboa St & 32nd Ave,31,31,31
+13059,5,Balboa St & 34th Ave,18,31,18,31,31
+13060,2,Balboa St & 35th Ave,18,31
+13061,2,Balboa St & 37th Ave,18,31
+13062,5,Balboa St & 37th Ave,18,31,18,31,31
+13063,2,Balboa St & 40th Ave,18,31
+13064,5,Balboa St & 40th Ave,18,31,18,31,31
+13065,2,Balboa St & 43rd Ave,18,31
+13066,5,Balboa St & 43rd Ave,18,31,18,31,31
+13032,1,Balboa St & 4th Ave,31
+13033,3,Balboa St & 4th Ave,31,31,31
+13035,0,Balboa St & 6th Ave
+13034,0,Balboa St & 6th Ave
+13036,1,Balboa St & 8th Ave,31
+13037,3,Balboa St & 8th Ave,31,31,31
+13067,1,Balboa St & Arguello Blvd,31
+13070,1,Balboa St & Park Presidio Blvd,31
+13071,3,Balboa St & Park Presidio Blvd,31,31,31
+17313,1,Bayshore Blvd & Alemany Blvd,23
+13771,3,Bayshore Blvd & Alemany Blvd,90,9,9
+17399,2,Bayshore Blvd & Areta Ave,T,T
+13772,4,Bayshore Blvd & Arleta Ave,8AX,8,TBUS,8BX
+13773,3,Bayshore Blvd & Augusta St,90,9,9
+17395,1,Bayshore Blvd & Blanken Ave,T
+17334,2,Bayshore Blvd & Blanken Ave,TBUS,8BX
+13775,2,Bayshore Blvd & Boutwell St,90,9
+13779,4,Bayshore Blvd & Cortland Ave,90,9,9,9R
+13778,3,Bayshore Blvd & Cortland Ave,90,9,9R
+17886,4,Bayshore Blvd & Flower St,90,9,23,9R
+13781,2,Bayshore Blvd & Hester Ave,TBUS,91
+13783,3,Bayshore Blvd & Leland Ave,9,9,9R
+18040,1,Bayshore Blvd &L Eland Ave,91
+17888,4,Bayshore Blvd & Oakdale Ave,90,9,9,9R
+13788,2,Bayshore Blvd & Silver Ave,90,9
+13789,3,Bayshore Blvd & Silver Ave,90,9,9
+17396,0,Bayshore Blvd & Sunnydale Ave
+17398,0,Bayshore Blvd & Sunnydale Ave
+13792,2,Bayshore Blvd & Tunnel Ave,TBUS,91
+13793,4,Bayshore Blvd & Visitacion Ave,TBUS,9,91,9R
+17520,0,Bayshore Blvd & Visitacion Ave
+13031,2,Bay St & Midway St,8BX,8
+17621,0,Beach St & Divisadero St
+13092,5,Beach St & Mason St,LOWL,F,FBUS,LOWL,F
+13093,0,Beach St & Polk St
+13095,2,Beach St & Stockton St,LOWL,LOWL
+13089,6,Beale St & Mission St,30X,7,5R,5,38R,38
+17843,1,Bemis St & Addison St,35
+13693,1,Bemis St & Addison  St,35
+13096,1,Bemis St & Moffitt St,35
+13690,1,Bernal Heights Blvd & Bradford St,67
+13691,1,Bernal Heights Blvd & Powhattan Ave,67
+17577,1,Bernal Heights Blvd & Powhattan St,67
+13689,1,Beverly St & Garfield St,29
+17006,2,Blanken Ave & Gillette Ave,56,56
+17007,2,Blanken Ave & Gillette Ave,56,56
+17008,2,Blanken Ave & Nueva Ave,56,56
+17009,2,Blanken Ave & Nueva Ave,56,56
+17011,2,Blanken Ave & Peninsula Ave,56,56
+17010,2,Blanken Ave & Peninsula Ave,56,56
+17012,2,Blanken Ave & Tunnel Ave,56,56
+13692,2,Blanken Ave & Tunnel Ave,56,56
+13695,0,Bosworth St & Diamond St
+13696,0,Bosworth St & Diamond St
+13694,1,Bosworth St & Elk St,44
+13697,1,Bosworth St & Elk St,44
+13698,1,Bosworth St & Lippard Ave,44
+13699,1,Bosworth St & Lippard Ave,44
+13700,1,Bosworth St & Marsily St,23
+13701,1,Bosworth St & Milton St,23
+13702,1,Bosworth St & Milton St,23
+13703,0,Bosworth St & Mission St
+13704,1,Bosworth St & Rotteck St,23
+13706,0,Bowley St & Lincoln Blvd
+13708,1,Bradford St & Bernal Heights Blvd,67
+13709,1,Bradford St & Bernal Heights Blvd,67
+13710,1,Bradford St & Esmeralda Ave,67
+13758,1,Brazil Ave & Athens St,52
+13759,1,Brazil Ave & Athens St,52
+13760,1,Brazil Ave & Madrid St,52
+13761,1,Brazil Ave & Mission St,52
+13762,1,Brazil Ave & Moscow St,52
+13763,1,Brazil Ave & Moscow St,52
+13764,1,Brazil Ave & Munich St,52
+13765,1,Brazil Ave & Naples St,52
+13766,1,Brazil Ave & Paris St,52
+13767,1,Brazil Ave & Prague St,52
+17248,1,Brazil Ave & Prague St,52
+13721,1,Bridge View Dr & Scotia Ave,54
+13722,1,Bridge View Dr & Topeka Ave,54
+13716,1,Broad St & Capitol Ave,M
+13715,3,Broad St & Capitol Ave,M,M,M
+13717,3,Broad St & Orizaba Ave,M,M,M
+13718,0,Broad St & Plymouth Ave
+13719,0,Broad St & Plymouth Ave
+13082,2,Broadway & Columbus Ave,12,12
+17185,1,Broadway & Grant Ave,8AX
+13084,2,Broadway & Montgomery St,12,12
+17862,2,Broadway & Sansome St,12,12
+13085,1,Broadway & Steiner St,22
+13086,2,Broadway & Steiner St,22,22
+13087,2,Broadway & Stockton St,12,12
+13072,2,Broderick St & Bay St,30,30
+13074,2,Broderick St & Beach St,30,30
+13075,2,Broderick St & Francisco St,30,30
+13076,2,Broderick St & Jefferson St,30,30
+13077,2,Broderick St & North Point St,30,30
+13978,1,Brotherhood Way & Chumasero Dr,57
+17792,1,Brotherhood Way & Chumasero Dr,58
+17797,1,Brotherhood Way & Church Access Rd,58
+17796,1,Brotherhood Way & Grace Community Church,58
+17801,1,Brotherhood Way & Grace Community Church,58
+17793,1,Brotherhood Way & Summit Way,58
+17798,1,Brotherhood Way & Summit Way,58
+13731,0,Bryant St & 16th St
+13730,0,Bryant St & 16th St
+13733,1,Bryant St & 17th St,27
+13732,1,Bryant St & 17th St,27
+13735,1,Bryant St & 18th St,27
+13734,1,Bryant St & 18th St,27
+13736,1,Bryant St & 19th St,27
+13737,1,Bryant St & 19th St,27
+13739,1,Bryant St & 20th St,27
+13738,1,Bryant St & 20th St,27
+13741,1,Bryant St & 21st St,27
+13740,1,Bryant St & 21st St,27
+13743,1,Bryant St & 22nd St,27
+13742,1,Bryant St & 22nd St,27
+13745,1,Bryant St & 23rd St,27
+13744,1,Bryant St & 23rd St,27
+13747,0,Bryant St & 24th St
+13746,0,Bryant St & 24th St
+13748,1,Bryant St & 25th St,27
+13749,1,Bryant St & 25th St,27
+13751,1,Bryant St & 26th St,27
+13750,1,Bryant St & 26th St,27
+13723,3,Bryant St & 4th St,8BX,8AX,8
+13724,3,Bryant St & 5th St,8BX,8AX,8
+13725,2,Bryant St & 6th St,8BX,8AX
+13756,1,Bryant St & Mariposa St,27
+13757,1,Bryant St & Mariposa St,27
+13794,1,Buchanan St & Bay St,43
+13803,1,Buckingham Way & Winston Dr,57
+17807,1,Buckingham Way & Winston Dr,57
+13818,1,Buena Vista Ave E & Buena Vista Ter,37
+13819,1,Buena Vista Ter & Buena Vista Ave E,37
+13820,1,Buena Vista Ter & Roosevelt Way,37
+13712,1,Burnett Ave & Crestline Dr,37
+17685,1,Burnett Ave & Dawnview Way,37
+13713,1,Burnett Ave & Dawnview Way,37
+13812,1,Bush St & Hyde St,27
+13814,1,Bush St & Leavenworth St,27
+13815,1,Bush St & Montgomery St,1X
+13924,2,Cabrillo St & 47th Ave,18,31
+13925,5,Cabrillo St & 47th Ave,18,31,18,31,31
+17539,1,Cabrillo St & 7th Ave,44
+17538,2,Cabrillo St & 7th Ave,5,44
+13927,0,Cabrillo St & La Playa St
+17204,3,Cabrillo St & La Playa St,31,31,31
+13830,3,California St & 10th Ave,1X,1,1
+13828,2,California St & 10th Ave,1X,1
+13831,2,California St & 12th Ave,1X,1
+13832,3,California St & 12th Ave,1X,1,1
+13834,3,California St & 16th Ave,1X,1,1
+13833,2,California St & 16th Ave,1X,1
+13836,3,California St & 19th Ave,1X,1,1
+13835,2,California St & 19th Ave,1X,1
+13837,2,California St & 22nd Ave,1X,1
+13838,3,California St & 22nd Ave,1X,1,1
+13839,2,California St & 25th Ave,1X,1
+13840,3,California St & 25th Ave,1X,1,1
+13842,3,California St & 28th Ave,1X,1,1
+13841,2,California St & 28th Ave,1X,1
+13844,3,California St & 30th Ave,1X,1,1
+13843,2,California St & 30th Ave,1X,1
+13823,3,California St & 4th Ave,1X,1,1
+13822,2,California St & 4th Ave,1X,1
+13824,2,California St & 6th Ave,28R,1X
+17844,0,California St & 6th Ave
+13825,1,California St & 6th Ave,1X
+13826,0,California St & 7th Ave
+13827,3,California St & 8th Ave,1X,1,1
+17160,2,California St & 8th Ave,1X,1
+13846,3,California St & Arguello Blvd,1X,1,1
+13845,2,California St & Arguello Blvd,1X,1
+13847,2,California St & Baker St,1,1
+13848,1,California St & Baker St,1
+13851,1,California St & Battery St,1X
+13849,1,California St & Battery St,CA
+17444,2,California St & Battery St,30X,CA
+13852,2,California St & Cherry St,1X,1
+13853,3,California St & Cherry St,1X,1,1
+13855,1,California St & Davis St,CA
+17294,1,California St & Davis St,CA
+13857,1,California St & Davis St,CA
+13858,2,California St & Divisadero St,1,1
+13859,1,California St & Divisadero St,1
+13860,0,California St & Drumm St
+13863,1,California St & Front St,CA
+13864,1,California St & Front St,CA
+13866,1,California St & Grant Ave,CA
+13865,1,California St & Grant Ave,CA
+13868,0,California St & Hyde St
+13867,0,California St & Hyde St
+13869,1,California St & Jones St,CA
+13870,1,California St & Jones St,CA
+13872,1,California St & Kearny St,CA
+13871,1,California St & Kearny St,CA
+13874,2,California St & Larkin St,CA,CA
+13873,1,California St & Larkin St,CA
+13876,3,California St & Laurel St,1X,1,1
+13875,2,California St & Laurel St,1X,1
+13878,1,California St & Leavenworth St,CA
+13877,1,California St & Leavenworth St,CA
+13881,1,California St & Mason St,CA
+13880,1,California St & Mason St,CA
+13883,1,California St & Montgomery St,CA
+13882,1,California St & Montgomery St,CA
+13886,2,California St & Park Presidio Blvd,1X,1
+13887,3,California St & Park Presidio Blvd,1X,1,1
+13885,1,California St & Pierce St,1
+13884,2,California St & Pierce St,1,1
+13889,2,California St & Polk St,CA,CA
+13888,1,California St & Polk St,CA
+13890,0,California St & Powell St
+13891,0,California St & Powell St
+13893,0,California St & Presidio Ave
+13892,1,California St & Presidio Ave,2
+13894,1,California St & Sansome St,CA
+13895,1,California St & Sansome St,CA
+13897,3,California St & Spruce St,1X,1,1
+13896,2,California St & Spruce St,1X,1
+13899,1,California St & Stockton St,CA
+13900,1,California St & Stockton St,CA
+13901,1,California St & Taylor St,CA
+13902,1,California St & Taylor St,CA
+17142,0,California St & Van Ness Ave
+14337,1,Cargo Way & 3rd St,91
+14338,1,Cargo Way & 3rd St,91
+13911,4,Carl St & Cole St,N,NBUS,N,NOWL
+13909,1,Carl St & Cole St,N
+17282,2,Carl St & Cole St,NOWL,NBUS
+13912,2,Carl St & Hillway Ave,NOWL,NBUS
+13913,1,Carl St & Hillway Ave,NOWL
+13915,4,Carl St & Stanyan St,N,NBUS,N,NOWL
+13914,3,Carl St & Stanyan St,NOWL,NBUS,N
+14204,1,Carmel St & Belvedere St,37
+14205,1,Carmel St & Twin Peaks Blvd,37
+13920,1,Cashmere St & Hudson Ave,54
+13921,1,Cashmere St & La Salle Ave,54
+13922,1,Cashmere St & Whitney Young Cir,54
+14307,2,Castro St & 14th St,24,24
+14308,2,Castro St & 14th St,24,24
+14310,2,Castro St & 15th St,24,24
+14309,2,Castro St & 15th St,24,24
+14312,2,Castro St & 16th St,24,24
+14311,2,Castro St & 16th St,24,24
+14313,2,Castro St & 17th St,24,24
+14314,0,Castro St & 18th St
+14315,1,Castro St & 18th St,35
+14317,2,Castro St & 19th St,24,24
+14316,3,Castro St & 19th St,35,24,24
+14318,3,Castro St & 20th St,35,24,24
+14319,2,Castro St & 20th St,24,24
+14320,2,Castro St & 21st St,24,24
+14321,2,Castro St & 21st St,24,24
+14323,2,Castro St & 22nd St,24,24
+14322,2,Castro St & 22nd St,24,24
+14325,2,Castro St & 23rd St,24,24
+14324,2,Castro St & 23rd St,24,24
+14326,0,Castro St & 24th St
+14327,0,Castro St & 24th St
+14328,4,Castro St & 25th St,48,48,24,24
+14329,2,Castro St & 25th St,24,24
+17290,2,Castro St & 26th St,24,24
+14331,2,Castro St & Duboce Ave,24,24
+14330,2,Castro St & Duboce Ave,24,24
+14332,2,Castro St & Elizabeth St,24,24
+14333,2,Castro St & Elizabeth St,24,24
+14334,2,Castro St & Market St,24,24
+17067,0,Cayuga Ave & Onondaga Ave
+17750,1,C. Chavez St&Florida St,27
+17751,1,C. Chavez St&Harrison St,27
+13930,1,Cesar Chavez St & Florida St,27
+13932,1,Cesar Chavez St & Folsom St,27
+13931,2,Cesar Chavez St & Folsom St,12,27
+13934,1,Cesar Chavez St & Harrison St,27
+13935,1,Cesar Chavez St & Mission St,12
+17551,2,Cesar Chavez St & Mission St,27,12
+13936,2,Cesar Chavez St & South Van Ness Ave,12,27
+17592,2,Cesar Chavez St & Valencia St,36,27
+13966,1,Chenery St & 30th St,36
+13965,1,Chenery St & 30th St,36
+13967,2,Chenery St & Castro St,35,36
+13968,1,Chenery St & Fairmount St,36
+13969,2,Chenery St & Mateo St,35,36
+13970,2,Chenery St & Mateo St,35,36
+13971,2,Chenery St & Miguel St,35,36
+13972,2,Chenery St & Miguel St,35,36
+13973,2,Chenery St & Natick St,35,36
+13974,1,Chenery St & Randall St,36
+13975,1,Chenery St & Randall St,36
+13976,2,Chenery St & Roanoke St,35,36
+13977,2,Chenery St & Roanoke St,35,36
+13940,2,Chestnut St & Divisadero St,30,30
+13942,0,Chestnut St & Fillmore St
+13941,0,Chestnut St & Fillmore St
+17857,2,Chestnut St & Gough St,30,30
+17856,3,Chestnut St & Gough St,30X,30,30
+13948,3,Chestnut St & Laguna St,30X,30,30
+13947,2,Chestnut St & Laguna St,30,30
+13953,3,Chestnut St & Pierce St,30X,30,30
+13952,2,Chestnut St & Pierce St,30,30
+13957,2,Chestnut St & Van Ness Ave,30,30
+13958,2,Chestnut St & Webster St,30,30
+13959,3,Chestnut St & Webster St,30X,30,30
+13960,1,Chicago Way & Cordova Ave,43
+13961,1,Chicago Way & Cordova Ave,43
+13963,1,Chicago Way & Naylor St,43
+13962,1,Chicago Way & Naylor St,43
+13964,1,Chicago Way & South Hill Blvd,43
+17876,0,Chinatown - Rose Pak Station
+13979,1,Chumasero Dr & Brotherhood Way,57
+13981,1,Chumasero Dr & Font Blvd,57
+17805,1,Chumasero Dr & Galindo Ave,57
+13985,2,Church St & 16th St,J,J
+13984,3,Church St & 16th St,J,22,22
+13987,1,Church St & 18th St,J
+16218,1,Church St & 22nd St,J
+13994,2,Church St & 22nd St,J,J
+13995,0,Church St & 24th St
+13996,0,Church St & 24th St
+18156,1,Church St & 26 St,J
+18155,2,Church St & 26th St,J,J
+18157,2,Church St & 28th St,J,J
+18158,1,Church St & 28th St,J
+13999,2,Church St & 29th St,J,J
+14000,0,Church St & 30th St
+14004,0,Church St & Day St
+17074,1,Church St & Duboce Ave,22
+14005,2,Church St & Duboce Ave,22,22
+14006,0,Church St & Duboce Ave
+17073,2,Church St & Market St,J,J
+18059,1,Church St & Market St,J
+15923,1,City College Bookstore,43
+15922,1,City College Bookstore,43
+15926,0,City College Terminal
+14335,1,City View Way & Knollview Way,36
+14032,1,Clarendon Ave & Clarendon Woods S,36
+14033,1,Clarendon Ave & Galewood Circle,36
+14035,1,Clarendon Ave & Olympia Way,36
+14037,1,Clarendon Ave & Panorama Dr,36
+18154,2,Clay St & Davis St,12,12
+14015,0,Clay St & Drumm St
+14016,1,Clay St & Franklin St,1
+14017,3,Clay St & Front St,12,12,1
+14018,1,Clay St & Grant Ave,1
+14019,1,Clay St & Hyde St,1
+14020,1,Clay St & Jones St,1
+14021,1,Clay St & Kearny St,1
+14022,1,Clay St & Larkin St,1
+14023,1,Clay St & Leavenworth St,1
+14024,1,Clay St & Mason St,1
+14025,2,Clay St & Montgomery St,30X,1
+14026,0,Clay St & Polk St
+14027,0,Clay St & Powell St
+14028,2,Clay St & Sansome St,12,12
+14029,1,Clay St & Stockton St,1
+14030,1,Clay St & Taylor St,1
+14031,1,Clay St & Van Ness Ave,1
+14073,2,Clayton St & Carl St,6,6
+14074,1,Clayton St & Carl St,6
+14077,2,Clayton St & Carmel St,33,33
+14076,1,Clayton St & Corbett Ave,33
+14075,2,Clayton St & Corbett Ave,33,33
+14078,2,Clayton St & Frederick St,6,6
+14079,2,Clayton St & Market St,33,33
+14080,1,Clayton St & Market St,33
+14082,1,Clayton St & Parnassus Ave,6
+14081,2,Clayton St & Parnassus Ave,6,6
+14070,1,Clayton St & Twin Peaks Blvd,33
+14069,2,Clement St & Legion Of Honor Dr,18,18
+18000,0,Clipper Cove Way & Treasure Island Rd
+14071,2,Clipper St & Diamond Heights Blvd,48,48
+18035,1,Clipper St & Douglass St,48
+18034,2,Clipper St & Douglass St,48,48
+18067,2,Clipper St & Grand View Ave,48,48
+14072,2,Clipper St & Portola Dr,48,52
+14087,0,Coit Tower
+14088,1,Cole St & 17th St,37
+14089,1,Cole St & Alma St,37
+14090,1,Cole St & Alma St,37
+14092,2,Cole St & Carl St,37,43
+14091,3,Cole St & Carl St,37,NOWL,43
+14093,1,Cole St & Carmel St,37
+14094,4,Cole St & Frederick St,37,43,NOWL,NBUS
+14095,4,Cole St & Haight St,37,NBUS,NOWL,43
+14096,4,Cole St & Haight St,37,43,NOWL,NBUS
+14097,1,Cole St & Parnassus Ave,37
+14098,1,Cole St & Parnassus Ave,37
+14099,4,Cole St & Waller St,37,NBUS,NOWL,43
+14100,4,Columbus Ave & Bay St,30,91,30,30
+14101,2,Columbus Ave & Broadway,8BX,8
+14103,4,Columbus Ave & Chestnut St,30,30,30,91
+14104,1,Columbus Ave & Chestnut St,PM
+17181,2,Columbus Ave & Chestnut St,PM,PM
+14105,4,Columbus Ave & Filbert St,30,91,30,30
+14107,4,Columbus Ave & Francisco St,30,91,30,30
+14106,4,Columbus Ave & Francisco St,30,30,30,91
+14108,2,Columbus Ave & Green St,8BX,8
+14111,2,Columbus Ave & Kearny St,8BX,8
+14114,4,Columbus Ave & Lombard St,30,91,30,30
+14113,1,Columbus Ave & Lombard St,PM
+14115,4,Columbus Ave & Mason St,30,30,30,91
+14116,4,Columbus Ave & North Point St,30,30,30,91
+14118,4,Columbus Ave & Taylor St,30,91,30,30
+14119,2,Columbus Ave & Union St,8BX,8
+14120,0,Columbus Ave & Union St
+14771,1,Concourse Dr At Acad Of Sciences,44
+14123,1,Connecticut St & 17th St,55
+14124,1,Connecticut St & 17th St,55
+14126,1,Connecticut St & 18th St,55
+14125,1,Connecticut St & 18th St,55
+14127,1,Connecticut St & 19th St,55
+17544,1,Connecticut St & 19th St,55
+14128,1,Connecticut St & 25th St,19
+14130,1,Connecticut St & 26th St,19
+14129,1,Connecticut St & 26th St,19
+14131,0,Connecticut St & Cesar Chavez St
+14132,0,Connecticut St & Cesar Chavez St
+14172,1,Corbett Ave & Clayton St,37
+14171,1,Corbett Ave & Clayton St,37
+14173,1,Corbett Ave & Cuesta Ct,37
+14175,1,Corbett Ave & Danvers St,37
+14174,1,Corbett Ave & Danvers St,37
+14176,1,Corbett Ave & Douglass St,37
+14178,1,Corbett Ave & Graystone Ter,37
+14177,1,Corbett Ave & Graystone Ter,37
+14179,1,Corbett Ave & Hattie St,37
+14180,1,Corbett Ave & Hattie St,37
+14181,1,Corbett Ave & Hopkins Ave,37
+14182,1,Corbett Ave & Iron Aly,37
+14183,1,Corbett Ave & Mars St,37
+14184,1,Corbett Ave & Mars St,37
+14185,1,Corbett Ave & Ord St,37
+14187,1,Corbett Ave & Romain St,37
+14186,1,Corbett Ave & Romain St,37
+14137,1,Cordova Ave & Prague St,43
+14138,1,Cordova Ave & Winding Way,43
+14139,1,Cordova Ave & Winding Way,43
+14143,2,Cortland Ave & Andover St,24,24
+14142,2,Cortland Ave & Andover St,24,24
+18081,0,Cortland Ave & Bayshore Blvd
+14148,0,Cortland Ave & Bayshore Blvd
+14145,2,Cortland Ave & Bocana St,24,24
+14146,2,Cortland Ave & Bocana St,24,24
+14147,2,Cortland Ave & Bradford St,24,24
+17213,2,Cortland Ave & Bronte St,24,24
+14152,2,Cortland Ave & Ellsworth St,24,24
+14151,2,Cortland Ave & Ellsworth St,24,24
+14149,2,Cortland Ave & Elsie St,24,24
+14150,2,Cortland Ave & Elsie St,24,24
+14154,2,Cortland Ave & Folsom St,24,24
+14153,2,Cortland Ave & Folsom St,24,24
+14155,0,Cortland Ave & Hilton St
+14157,2,Cortland Ave & Mission St,24,24
+14156,2,Cortland Ave & Mission St,24,24
+14158,3,Cortland Ave & Prentiss St,24,67,24
+14159,3,Cortland Ave & Prentiss St,67,24,24
+14161,2,Cortland Ave & Prospect Ave,24,24
+14160,2,Cortland Ave & Prospect Ave,24,24
+14188,1,Crescent Ave & Agnon Ave,23
+17689,1,Crescent Ave & Anderson St,23
+14190,1,Crescent Ave & Andover St,23
+14189,1,Crescent Ave & Andover St,23
+14191,1,Crescent Ave & Arnold Ave,23
+14192,1,Crescent Ave & College Ave,23
+17209,1,Crescent Ave & Ellsworth St,23
+14196,1,Crescent Ave & Folsom St,23
+14195,1,Crescent Ave & Folsom St,23
+14197,1,Crescent Ave & Leese St,23
+14198,1,Crescent Ave & Mission St,23
+14199,1,Crescent Ave & Murray St,23
+14200,1,Crescent Ave & Porter St,23
+14201,1,Crescent Ave & Putnam St,23
+14202,1,Crescent Ave & Putnam St,23
+14203,1,Crescent Ave & Roscoe St,23
+14207,1,Crespi Dr & Varela Ave,29
+17020,1,Crestline Dr & Burnett Ave,37
+18153,0,Crissy Field Terminal
+18150,0,Crissy Field Terminal
+16984,2,Cross Over Dr & Fulton St,29,29
+17758,2,Crossover Dr & Lincoln St,91,28
+14336,1,Curtis St & Prague St,43
+13612,0,Cyril Magnin St & Market St
+17925,0,Daly City BART Parking Lot E
+17842,0,Daly City BART Station
+14341,0,Daly City BART Station
+17606,0,Daly City BART West Station Rd
+14347,1,Davis St & Pine St,30X
+14350,1,De Haro St & 16th St,19
+14351,1,De Haro St & 17th St,19
+14352,1,De Haro St & 18th St,19
+14353,1,De Haro St & 19th St,19
+14354,1,De Haro St & 20th St,19
+14355,1,De Haro St & 22nd St,19
+14356,0,De Haro St & 23rd St
+14357,1,De Haro St & Mariposa St,19
+14358,1,De Haro St & Southern Heights Ave,19
+14439,1,Delta St & Tioga Ave,56
+14360,2,Diamond Heights Blvd & Addison St,35,52
+14361,1,Diamond Heights Blvd & Berkeley,52
+14362,1,Diamond Heights Blvd & Berkeley Way,52
+14363,1,Diamond Heights Blvd & Diamond St,52
+14364,1,Diamond Heights Blvd & Diamond St,52
+17229,1,Diamond Heights Blvd & Duncan St,52
+14366,1,Diamond Heights Blvd & Duncan St,52
+14368,1,Diamond Heights Blvd & Gold Mine Dr,52
+14369,0,Diamond Heights Blvd & Gold Mine Dr
+14367,0,Diamond Heights Blvd & Gold Mine Dr
+14371,2,Diamond St & 24th St,35,48
+14372,1,Diamond St & 25th St,35
+14373,2,Diamond St & 25th St,35,48
+14375,1,Diamond St & 26th St,35
+14374,1,Diamond St & 26th St,35
+14377,1,Diamond St & 27th St,35
+14376,1,Diamond St & 27th St,35
+14378,1,Diamond St & 28th St,35
+14379,1,Diamond St & 28th St,35
+14381,1,Diamond St & 29th St,35
+14380,1,Diamond St & 29th St,35
+14382,1,Diamond St & Arbor St,52
+14383,1,Diamond St & Arbor St,52
+14387,0,Diamond St & Bosworth St
+14386,0,Diamond St & Bosworth St
+14384,1,Diamond St & Cesar Chavez St,35
+14385,1,Diamond St & Cesar Chavez St,35
+14389,3,Diamond St & Chenery St,35,52,36
+14388,3,Diamond St & Chenery St,35,36,52
+14390,1,Diamond St & Clipper St,35
+14391,1,Diamond St & Clipper St,35
+14393,1,Diamond St & Conrad St,52
+14392,1,Diamond St & Conrad St,52
+14394,0,Diamond St & Diamond Heights Blvd
+14397,0,Diamond St & Diamond Heights Blvd
+14395,1,Diamond St & Diamond Heights Blvd,52
+14398,1,Diamond St & Duncan St,35
+14399,1,Diamond St & Duncan St,35
+14400,1,Diamond St & Moffitt St,52
+14401,1,Diamond St & Moffitt St,52
+17251,1,Diamond St (South)/Diamond Hts,52
+14402,1,Diamond St & Surrey St,52
+14403,1,Diamond St & Surrey St,52
+14404,1,Diamond St & Sussex St,52
+14405,1,Diamond St & Sussex St,52
+17568,3,Divisadero St & Bay St,30,30,30
+14406,1,Divisadero St & Bay St,30X
+14407,3,Divisadero St & Beach St,30,30,30
+14408,1,Divisadero St & Bush St,24
+14410,2,Divisadero St & California St,24,24
+14409,1,Divisadero St & California St,24
+14411,1,Divisadero St & Chestnut St,30X
+14413,2,Divisadero St & Clay St,24,24
+14412,1,Divisadero St & Clay St,24
+14415,1,Divisadero St & Eddy St,31
+14414,0,Divisadero St & Eddy St
+14418,4,Divisadero St & Francisco St,30,30X,30,30
+14421,1,Divisadero St & Geary Blvd,24
+14422,2,Divisadero St & Geary Blvd,24,24
+14424,1,Divisadero St & Haight St,NBUS
+14423,0,Divisadero St & Haight St
+14425,2,Divisadero St & Hayes St,24,24
+14426,2,Divisadero St & Hayes St,24,24
+14427,1,Divisadero St & Jackson St,24
+14429,2,Divisadero St & Mcallister St,24,24
+14428,2,Divisadero St & Mcallister St,24,24
+14430,3,Divisadero St & North Point St,30,30,30
+14431,2,Divisadero St & Oak St,24,24
+14432,2,Divisadero St & Oak St,24,24
+14433,2,Divisadero St & Pine St,24,24
+14434,0,Divisadero St & Sutter St
+14435,0,Divisadero St & Sutter St
+14436,3,Division St & Bryant St,90,9,9
+14437,1,Division St & Rhode Island St,19
+14438,1,Division St & Townsend St,19
+17860,1,Donahue St & Innes Ave,19
+14440,1,Donahue St & Innes Ave,19
+14726,0,Don Chee Way/Steuart St
+14727,0,Don Chee Way/Steuart St
+14443,1,Douglass St & 24th St,35
+14444,1,Douglass St & Alvarado St,35
+14445,1,Drumm St & California St,12
+10913,0,Dublin St & La Grande Ave
+14447,1,Duboce Ave & Church St,N
+18061,0,Duboce Ave & Church St
+14448,0,Duboce Ave & Church St
+14451,0,Duboce Ave & Noe St
+17075,1,Duboce Ave & Noe St,NBUS
+17252,1,Duboce St/Noe St/Duboce Park,N
+17228,1,Duncan St & Amber Dr,52
+14453,1,Duncan St & Amber Dr,52
+14454,1,Duncan St & Cameo Way,52
+14455,1,Duncan St & Diamond Heights Blvd,52
+14456,0,Earl St & Kirkwood Ave
+14473,2,Eddy St & Buchanan St,31,31
+14472,1,Eddy St & Buchanan St,31
+14474,2,Eddy St & Divisadero St,31,31
+14475,1,Eddy St & Fillmore St,31
+14476,2,Eddy St & Fillmore St,31,31
+14478,2,Eddy St & Gough St,31,31
+14477,1,Eddy St & Gough St,31
+14479,2,Eddy St & Hyde St,31,31
+14480,2,Eddy St & Jones St,31,31
+14485,2,Eddy St & Laguna St,31,31
+14484,1,Eddy St & Laguna St,31
+14482,3,Eddy St & Larkin St,31,19,31
+14481,1,Eddy St & Larkin St,31
+14483,2,Eddy St & Leavenworth St,31,31
+14487,1,Eddy St & Pierce St,31
+14488,2,Eddy St & Pierce St,31,31
+14490,3,Eddy St & Polk St,31,19,31
+14489,1,Eddy St & Polk St,31
+14492,2,Eddy St & Scott St,31,31
+14491,1,Eddy St & Scott St,31
+14493,2,Eddy St & Taylor St,31,31
+14494,0,Eddy St & Van Ness Ave
+14495,0,Eddy St & Van Ness Ave
+14568,0,Ellsworth St & Crescent Ave
+17281,3,Embarcadero & Sansome St,LOWL,F,FBUS
+17993,1,Essex St & Folsom St,12
+14545,1,Eucalyptus Dr & 19th Ave,57
+14544,1,Eucalyptus Dr & 19th Ave,57
+14546,1,Eucalyptus Dr & Junipero Serra Blvd,57
+14535,1,Eureka St & 18th St,35
+14536,1,Eureka St & 19th St,35
+14537,1,Eureka St & 20th St,35
+14539,1,Eureka St & 21st St,35
+14538,1,Eureka St & 21st St,35
+14540,1,Eureka St & 22nd St,35
+14543,1,Eureka St & Market St,35
+14547,3,Evans Ave & 3rd St,44,44,91
+14549,1,Evans Ave & Cesar Chavez St,19
+14551,3,Evans Ave & Keith St,44,19,44
+14550,2,Evans Ave & Keith St,44,19
+14548,1,Evans Ave & Marin St,19
+14553,3,Evans Ave & Mendell St,44,19,44
+17077,2,Evans Ave & Mendell St,44,19
+14552,3,Evans Ave & Middle Point Rd,44,19,44
+14556,1,Evans Ave & Napoleon St,19
+14555,2,Evans Ave & Newhall St,19,91
+14564,3,Evans Ave Opposite Us Post Office,44,19,44
+14559,0,Evans Ave & Phelps St
+14560,1,Evans Ave & Phelps St,19
+17285,1,Evans Ave & Quint St,19
+14561,1,Evans Ave & Quint St,19
+14562,1,Evans Ave & Selby St,19
+17286,1,Evans Ave & Selby St,19
+14558,2,Evans Ave & Uspo,44,19
+14571,1,Excelsior Ave & Madrid St,52
+14572,0,Excelsior Ave & Mission St
+14573,1,Excelsior Ave & Naples St,52
+14574,1,Excelsior Ave & Paris St,52
+14576,2,Executive Park Blvd & Blanken Ave,56,56
+17747,2,Executive Park Blvd & Thomas Mellon Dr,56,56
+14579,1,Farnum St & Moffitt St,35
+14581,1,Felton St & Amherst St,54
+14582,1,Felton St & Amherst St,54
+14583,1,Felton St & Cambridge St,54
+14584,1,Felton St & Cambridge St,54
+14588,1,Felton St & Harvard St,54
+14587,1,Felton St & Harvard St,54
+14589,1,Felton St & Madison St,54
+14590,1,Felton St & Madison St,54
+14593,1,Felton St & Peru Ave,54
+14596,1,Felton St & University St,54
+14603,0,Fillmore St & Bay St
+14606,2,Fillmore St & Beach St,22,22
+14607,2,Fillmore St & Beach St,22,22
+14605,2,Fillmore St & Broadway,22,22
+14604,1,Fillmore St & Broadway,22
+14610,2,Fillmore St & Cervantes Blvd,22,22
+14608,1,Fillmore St & Chestnut St,22
+14609,0,Fillmore St & Chestnut St
+14612,2,Fillmore St & Eddy St,22,22
+14611,1,Fillmore St & Eddy St,22
+14615,2,Fillmore St & Geary Blvd,22,22
+14614,1,Fillmore St & Geary Blvd,22
+14613,1,Fillmore St & Golden Gate Ave,22
+14617,2,Fillmore St & Grove St,22,22
+14616,1,Fillmore St & Grove St,22
+14618,0,Fillmore St & Haight St
+17636,0,Fillmore St & Haight St
+14620,0,Fillmore St & Haight St
+14621,1,Fillmore St & Hayes St,22
+14622,2,Fillmore St & Hayes St,22,22
+14623,1,Fillmore St & Jackson St,22
+14624,2,Fillmore St & Jackson St,22,22
+14625,2,Fillmore St & Jefferson St,22,22
+14627,2,Fillmore St & Lombard St,22,22
+14626,1,Fillmore St & Lombard St,22
+14629,0,Fillmore St & Mcallister St
+14628,0,Fillmore St & Mcallister St
+14630,2,Fillmore St & North Point St,22,22
+14631,1,Fillmore St & Oak St,22
+14632,2,Fillmore St & Oak St,22,22
+14633,1,Fillmore St & O'Farrell St,22
+14634,2,Fillmore St & O'Farrell St,22,22
+14636,2,Fillmore St & Pine St,22,22
+14635,1,Fillmore St & Pine St,22
+14637,2,Fillmore St & Sacramento St,22,22
+14638,1,Fillmore St & Sacramento St,22
+14641,0,Fillmore St & Sutter St
+14640,0,Fillmore St & Sutter St
+14642,2,Fillmore St & Turk St,22,22
+14643,1,Fillmore St & Union St,22
+14645,2,Fitzgerald Ave & Hawes St,29,29
+14646,2,Fitzgerald Ave & Ingalls St,29,29
+14647,2,Fitzgerald Ave & Jennings St,29,29
+14648,0,Fitzgerald Ave & Keith St
+14649,1,Foerster St & Flood Ave,43
+14650,1,Foerster St & Judson Ave,43
+14652,1,Foerster St & Mangels Ave,36
+14651,1,Foerster St & Mangels Ave,36
+17528,0,Foerster Street & Monterey Blvd
+14654,1,Foerster St & Teresita Blvd,36
+14664,1,Folsom St & 11th St,27
+14665,1,Folsom St & 11th St,27
+14666,2,Folsom St & 14th St,12,27
+14667,2,Folsom St & 14th St,27,12
+14669,1,Folsom St & 16th St,12
+14668,2,Folsom St & 16th St,27,12
+14672,1,Folsom St & 18th St,12
+14671,1,Folsom St & 18th St,12
+14655,1,Folsom St & 1st St,12
+17732,1,Folsom St & 20st,12
+17733,1,Folsom St & 20th St,12
+14676,1,Folsom St & 22nd St,12
+14675,1,Folsom St & 22nd St,12
+17312,1,Folsom St & 24th St,67
+14677,0,Folsom St & 24th St
+14681,2,Folsom St & 25th St,67,12
+14680,2,Folsom St & 25th St,67,12
+17024,1,Folsom St & 2nd St,12
+14657,1,Folsom St & 3rd St,12
+14658,0,Folsom St & 4th St
+14659,1,Folsom St & 5th St,12
+14660,1,Folsom St & 6th St,12
+14661,1,Folsom St & 7th St,12
+14662,2,Folsom St & 8th St,27,12
+14663,2,Folsom St & 9th St,27,12
+18002,1,Folsom St & Beale St,12
+14686,1,Folsom St & Bessie St,67
+17746,0,Folsom St & Cesar Chavez St
+17552,1,Folsom St & Cesar Chavez St,12
+14688,0,Folsom St & Cortland Ave
+14687,0,Folsom St & Cortland Ave
+14690,1,Folsom St & Crescent Ave,67
+14689,1,Folsom St & Crescent Ave,67
+14695,1,Folsom St & Ogden St,67
+14696,1,Folsom St & Ogden St,67
+14697,1,Folsom St & Precita Ave,67
+14698,1,Folsom St & Stoneman St,67
+14699,1,Folsom St & Stoneman St,67
+14700,1,Folsom St & Tompkins St,67
+14701,1,Folsom St & Tompkins St,67
+14702,1,Font Blvd & Arballo Dr,57
+14703,1,Font Blvd & Arballo Dr,57
+14706,1,Font Blvd & Cambon Dr,57
+14705,1,Font Blvd & Cambon Dr,57
+14704,1,Font Blvd & Chumasero Dr,57
+14707,1,Font Blvd & Gonzalez Dr,57
+17236,1,Font Blvd & Gonzalez Dr,57
+17790,1,Font Blvd & Juan Bautisa Cir,57
+14709,1,Font Blvd & Juan Bautista Cir,57
+17806,1,Font Blvd & Mary Ward Hall,57
+17808,1,Font Blvd & Mary Ward Hall,57
+14710,1,Font Blvd & Serrano Dr,57
+17789,1,Font Blvd & Serrano Dr,57
+17788,1,Font Blvd & Tapia Dr,57
+14712,1,Font Blvd & Tapia Dr,57
+16993,3,Forest Hill Station Outbound,M,K,L
+17879,0,Fourth Street & Brannan Northbound
+14238,1,Fowler Ave & Portola Dr,36
+17529,0,Francisco Street & Polk Street
+14714,1,Frederick St & Arguello Blvd,7
+14716,2,Frederick St & Ashbury St,6,6
+14715,1,Frederick St & Ashbury St,6
+14717,1,Frederick St & Clayton St,6
+17025,2,Frederick St & Masonic St,6,6
+14718,1,Frederick St & Stanyan St,7
+14720,1,Frederick St & Willard St,7
+14719,1,Frederick St & Willard St,7
+14725,8,Fremont St & Market St,5,5,38R,38,38,38,5R,7
+14723,1,Fremont St & Mission St,25
+15925,1,Frida Khalo Way & Judson Ave,43
+15924,1,Frida Khalo Way & Judson Ave,43
+14737,3,Fulton St & 10th Ave,5,5R,5
+14736,2,Fulton St & 10th Ave,5,5R
+14742,2,Fulton St & 18th Ave,5,5R
+14746,2,Fulton St & 22nd Ave,5,5R
+14747,3,Fulton St & 22nd Ave,5,5R,5
+14749,0,Fulton St & 25th Ave
+14748,0,Fulton St & 25th Ave
+14751,3,Fulton St & 28th Ave,5,5R,5
+17727,2,Fulton S T& 28th Ave,5,5R
+14753,3,Fulton St & 30th Ave,5,5R,5
+17728,2,Fulton S T& 30th Ave,5,5R
+14212,3,Fulton St & 33rd Ave,5,5R,5
+14211,2,Fulton St & 33rd Ave,5,5R
+14213,2,Fulton St & 36th Ave,5,5R
+14215,3,Fulton St & 37th Ave,5,5R,5
+17729,2,Fulton St & 40th Ave,5,5R
+14218,3,Fulton St & 40th Ave,5,5R,5
+17720,3,Fulton St & 43rd Ave,5,5R,5
+17730,2,Fulton St & 43rd Ave,5,5R
+14222,3,Fulton St & 46th Ave,5,5R,5
+14221,2,Fulton St & 46th Ave,5,5R
+14731,2,Fulton St & 4th Ave,5,5
+14730,2,Fulton St & 4th Ave,5,5
+14733,0,Fulton St & 6th Ave
+14732,0,Fulton St & 6th Ave
+14734,2,Fulton St & 8th Ave,5,5R
+14735,3,Fulton St & 8th Ave,5,5R,5
+14223,3,Fulton St & Arguello Blvd,5,5R,5
+14224,4,Fulton St & Arguello Blvd,33,5,5R,5
+14226,2,Fulton St & Clayton St,5,5
+14225,2,Fulton St & Clayton St,5,5
+14227,1,Fulton St & Great Hwy,18
+14228,3,Fulton St & La Playa St,5,5R,5
+14229,0,Fulton St & Masonic Ave
+14230,0,Fulton St & Masonic Ave
+14233,3,Fulton St & Parker Ave,5,5R,5
+17721,3,Fulton St & Park Presidio,5,5R,5
+14232,3,Fulton St & Park Presidio Blvd,5,5R,5
+14231,2,Fulton St & Park Presidio Blvd,5,5R
+17499,0,Fulton Street & Shrader Street
+14234,3,Fulton St & Shrader St,5,5R,5
+14235,2,Fulton St & Stanyan St,5,5
+14236,4,Fulton St & Stanyan Stw,5,33,5,33
+15633,0,Galvez Ave & Hill Ave
+14245,2,Garfield St & Beverly St,29,29
+14247,1,Garfield St & Bright St,29
+14246,2,Garfield St & Bright St,29,29
+14248,2,Garfield St & Byxbee St,29,29
+17325,1,Garfield St & Byxbee St,29
+14253,2,Garfield St & Vernon St,29,29
+17326,1,Garfield St & Vernon St,29
+14254,1,Garfield St & Victoria St,29
+17196,2,Garfield St & Victoria St,29,29
+14934,1,Gateview Ave & Bayside Dr,25
+14935,1,Gateview Ave & Mason Ct,25
+14936,1,Gateview Ave & Northpoint Dr,25
+14263,3,Geary Blvd & 17th Ave,38,38,38
+14264,1,Geary Blvd & 17th Ave,38
+14265,4,Geary Blvd & 20th Ave,38,38R,38,38
+14266,2,Geary Blvd & 20th Ave,38R,38
+14267,3,Geary Blvd & 22nd Ave,38,38,38
+14268,1,Geary Blvd & 23rd Ave,38
+14270,2,Geary Blvd & 25th Ave,38R,38
+14269,4,Geary Blvd & 25th Ave,38,38R,38,38
+14272,1,Geary Blvd & 28th Ave,38
+14271,3,Geary Blvd & 28th Ave,38,38,38
+14273,3,Geary Blvd & 30th Ave,38,38,38
+14274,1,Geary Blvd & 30th Ave,38
+14275,1,Geary Blvd & 32nd Ave,38
+14277,0,Geary Blvd & 33rd Ave
+14278,0,Geary Blvd & 33rd Ave
+14279,0,Geary Blvd & 33rd Ave
+14280,3,Geary Blvd & 36th Ave,38R,38,38
+14281,2,Geary Blvd & 36th Ave,38R,38
+14282,3,Geary Blvd & 39th Ave,38R,38,38
+14283,2,Geary Blvd & 39th Ave,38R,38
+14255,3,Geary Blvd & 3rd Ave,38,38,38
+14256,1,Geary Blvd & 3rd Ave,38
+14285,2,Geary Blvd & 42nd Ave,38R,38
+14286,2,Geary Blvd & 45th Ave,38R,38
+14257,4,Geary Blvd & 6th Ave,38,38R,38,38
+14258,2,Geary Blvd & 6th Ave,38R,38
+14259,3,Geary Blvd & 9th Ave,38,38,38
+14260,1,Geary Blvd & 9th Ave,38
+17854,4,Geary Blvd & Arguello Blvd,38,38R,38,38
+14288,2,Geary Blvd & Arguello Blvd,38R,38
+14289,3,Geary Blvd & Baker St,38,38,38
+14290,3,Geary Blvd & Collins St,38,38,38
+14291,1,Geary Blvd & Collins St,38
+14292,3,Geary Blvd & Commonwealth St,38,38,38
+14293,4,Geary Blvd & Divisadero St,38,38R,38,38
+14294,2,Geary Blvd & Divisadero St,38R,38
+14295,0,Geary Blvd & Fillmore St
+17954,0,Geary Blvd & Fillmore St
+14298,3,Geary Blvd & Gough St,38,38,38
+14304,4,Geary Blvd & Laguna St,38,38R,38,38
+14305,2,Geary Blvd & Laguna St,38R,38
+17953,0,Geary Blvd & Masonic St
+14755,0,Geary Blvd & Park Presidio Blvd
+14756,0,Geary Blvd & Park Presidio Blvd
+14758,0,Geary Blvd & Presidio Ave
+14761,1,Geary Blvd & Scott St,38
+14760,3,Geary Blvd & Scott St,38,38,38
+14763,1,Geary Blvd & Spruce St,38
+14762,3,Geary Blvd & Spruce St,38,38,38
+14764,1,Geary Blvd & Stanyan St,38
+14765,1,Geary Blvd & St Joseph'S Ave,38
+14768,0,Geary Blvd & Van Ness Ave
+14769,3,Geary Blvd & Webster St,38,38,38
+14300,3,Geary St & Jones St,38,38,38
+14301,4,Geary St & Kearny St,38,38R,38,38
+14302,4,Geary St & Larkin St,38,38,38,19
+14303,4,Geary St & Leavenworth St,38,38R,38,38
+14757,0,Geary St & Powell St
+14766,4,Geary St & Stockton St,38,38R,38,38
+14767,3,Geary St & Taylor St,38,38,38
+14122,1,General Managers Office,19
+14803,2,Geneva Ave/Balboa Park BART,8,8BX
+14805,2,Geneva Ave/Balboa Park BART,8BX,8
+17300,3,Geneva Ave & Carter St,8,8BX,91
+17304,4,Geneva Ave&Carter St,8BX,8,91,8
+14809,2,Geneva Ave & Castillo St,9,9R
+14808,2,Geneva Ave & Castillo St,9,9R
+14810,5,Geneva Ave & Cayuga Ave,8,43,54,91,8BX
+14811,6,Geneva Ave & Cayuga Ave,43,54,91,8BX,8,8
+14882,4,Geneva Ave & Howth St,43,8BX,91,8
+14881,4,Geneva Ave & Howth St,8,8BX,43,91
+14884,5,Geneva Ave & Madrid St,8,43,54,91,8BX
+14883,6,Geneva Ave & Madrid St,43,54,91,8BX,8,8
+17671,1,Geneva Ave & Mission St,8BX
+14886,2,Geneva Ave & Mission St,8,8BX
+14889,4,Geneva Ave & Moscow St,54,8,8BX,91
+14888,4,Geneva Ave & Munich St,8BX,8,91,8
+14891,5,Geneva Ave & Naples St,54,91,8BX,8,8
+14890,4,Geneva Ave & Naples St,54,8,8BX,91
+14894,3,Geneva Ave & Prague St,8,8BX,91
+14895,0,Geneva Ave & Rio Verde St
+17127,2,Geneva Ave & Rio Verde St,9,9R
+14900,2,Geneva Ave & Santos St,8,8BX
+14899,2,Geneva Ave & Santos St,9,9R
+17522,0,Geneva Street & Schwerin Street
+14792,1,Gennessee St & Flood Ave,43
+14783,2,Gilman Ave & 3rd St,29,29
+15955,2,Gilman Ave & Bill Walsh Way,29,29
+14784,2,Gilman Ave & Griffith St,29,29
+14785,2,Gilman Ave & Ingalls St,29,29
+14786,2,Gilman Ave & Jennings St,29,29
+17838,0,Girard St & Burrows St
+14773,2,Golden Gate Bridge/Parking Lot,28,28
+14776,2,Golden Gate Br Tunnel/Merchant Rd,28,28
+14905,1,Gough St & Sacramento St,1
+17249,1,Grafton Ave At Plymouth Ave,54
+17194,2,Grafton Ave & Capitol Ave,29,29
+14908,1,Grafton Ave & Capitol Ave,29
+14910,1,Grafton Ave & Granada Ave,29
+14911,1,Grafton Ave & Harold Ave,54
+17195,2,Grafton Ave & Jules Ave,29,29
+14912,1,Grafton Ave & Jules Ave,29
+14913,1,Grafton Ave & Lee St,54
+14915,1,Grafton Ave & Plymouth Ave,29
+17193,2,Grafton Ave & Plymouth Ave,29,29
+14924,1,Grand View Ave & 21st St,35
+14780,1,Great Hwy Near Beach Chalet,18
+14779,2,Great Hwy Near Beach Chalet,18,18
+18112,1,Grove St & Gough St,21
+14920,1,Grove St & Gough St,21
+14921,1,Grove St & Laguna St,21
+18113,1,Grove St & Laguna St,21
+14923,0,Grove St & Van Ness Ave
+14937,4,Hahn St & Sunnydale Ave,8BX,8,91,8
+14938,5,Hahn St & Sunnydale Ave,8,56,91,8BX,56
+17026,5,Hahn St & Visitacion Ave,8,56,91,8BX,56
+14940,4,Haight St & Baker St,6,NOWL,NBUS,7
+14942,3,Haight St & Buchanan St,6,7,6
+14941,2,Haight St & Buchanan St,6,7
+14943,5,Haight St & Buena Vista East Ave,NOWL,6,NBUS,7,6
+14947,6,Haight St & Clayton St,33,37,NOWL,43,NBUS,7
+14946,7,Haight St & Clayton St,33,NOWL,43,NBUS,37,33,7
+14950,4,Haight St & Divisadero St,6,NOWL,NBUS,7
+14951,4,Haight St & Divisadero St,NOWL,6,7,6
+14952,1,Haight St & Fillmore St,7
+14953,1,Haight St & Fillmore St,7
+17757,3,Haight St & Gough St,6,7,6
+14954,2,Haight St & Gough St,6,7
+14955,2,Haight St & Laguna St,6,7
+14958,2,Haight St & Masonic Ave,NOWL,NBUS
+14957,2,Haight St & Masonic Ave,NOWL,NBUS
+14961,4,Haight St & Pierce St,NOWL,6,7,6
+14960,3,Haight St & Pierce St,6,NOWL,7
+14963,2,Haight St & Stanyan St,33,7
+14962,1,Haight St & Stanyan St,7
+15020,2,Halleck St/Army Headquarters,43,43
+14964,2,Hampshire St & 24th St,33,33
+14966,1,Harrison St & 2nd St,12
+14967,2,Harrison St & 3rd St,12,31
+14968,5,Harrison St & 4th St,8,45,31,8AX,8BX
+14969,4,Harrison St & 5th St,8AX,8,8BX,12
+14970,1,Harrison St & 6th St,12
+14971,1,Harrison St & 7th St,12
+14972,1,Harrison St & 8th St,12
+14973,2,Harrison St & 9th St,12,27
+14976,2,Hawes St & Gilman Ave,29,29
+14980,1,Hayes St & Baker St,21
+14979,2,Hayes St & Baker St,21,21
+14984,1,Hayes St & Buchanan St,21
+14983,2,Hayes St & Buchanan St,21,21
+14986,1,Hayes St & Central Ave,21
+14985,2,Hayes St & Central Ave,21,21
+14988,1,Hayes St & Clayton St,21
+14987,2,Hayes St & Clayton St,21,21
+14991,0,Hayes St & Divisadero St
+14992,0,Hayes St & Divisadero St
+14994,1,Hayes St & Fillmore St,21
+14993,2,Hayes St & Fillmore St,21,21
+14996,2,Hayes St & Gough St,21,21
+14998,2,Hayes St & Laguna St,21,21
+14997,2,Hayes St & Larkin St,21,21
+15000,1,Hayes St & Lyon St,21
+15001,0,Hayes St & Masonic Ave
+15002,0,Hayes St & Masonic Ave
+15003,2,Hayes St & Pierce St,21,21
+15004,1,Hayes St & Pierce St,21
+17561,1,Hayes St & Shrader St,21
+15007,2,Hayes St & Shrader St,21,21
+15009,2,Hayes St & Stanyan St,21,21
+15012,1,Hayes St & Steiner St,21
+15011,2,Hayes St & Steiner St,21,21
+15013,0,Hayes St & Van Ness Ave
+15014,2,Hayes St & Webster St,21,21
+15015,1,Hayes St & Webster St,21
+15017,2,Hermann St & Fillmore St,22,NOWL
+15018,3,Hermann St & Fillmore St,NOWL,22,22
+15031,1,Hoffman Ave & 22nd St,35
+15032,1,Hoffman Ave & 23rd St,35
+15034,1,Holloway Ave & Beverly St,29
+15036,2,Holloway Ave & Junipero Serra Blvd,29,29
+15037,1,Holloway Ave & Junipero Serra Blvd,29
+15030,1,Holyoke St & Wayland St,54
+15029,1,Holyoke St & Wayland St,54
+15056,1,Howard St & Main St,30X
+15038,1,Howth St & Geneva Ave,54
+15039,1,Howth St & Mt Vernon Ave,54
+15040,1,Howth St & Niagra Ave,54
+15041,0,Hudson Ave & 3rd St
+15042,1,Hudson Ave & Ardath Ct,54
+18147,1,Hudson Ave & Cashmere St,15
+15043,2,Hudson Ave & Cashmere St,15,54
+15044,1,Hudson Ave & Ingalls St,15
+15045,1,Hudson Ave & Ingalls St,54
+15046,2,Hudson Ave & Keith St,15,54
+15047,2,Hudson Ave & Keith St,15,54
+15048,2,Hudson Ave & Mendell St,15,54
+15049,2,Hudson Ave & Mendell St,15,54
+15050,3,Hudson Ave & Whitney Young Cir,44,44,15
+15051,3,Hudson Ave & Whitney Young Cir,15,44,54
+17676,0,Hward St&Spear
+15059,1,Hyde St & Bay St,PH
+15060,2,Hyde St & Bay St,PH,PH
+15063,0,Hyde St & Beach St
+15064,0,Hyde St & Beach St
+15061,2,Hyde St & Broadway,PH,PH
+15062,1,Hyde St & Broadway,PH
+15065,1,Hyde St & California St,27
+15066,1,Hyde St & Chestnut St,PH
+15067,2,Hyde St & Chestnut St,PH,PH
+15068,1,Hyde St & Clay St,27
+15070,2,Hyde St & Filbert St,PH,PH
+15069,1,Hyde St & Filbert St,PH
+15075,2,Hyde St & Green St,PH,PH
+15074,1,Hyde St & Green St,PH
+15072,2,Hyde St & Greenwich St,PH,PH
+15073,1,Hyde St & Greenwich St,PH
+15071,2,Hyde St & Grove St,19,27
+15076,2,Hyde St & Jackson St,PH,PH
+15077,1,Hyde St & Lombard St,PH
+15078,2,Hyde St & Lombard St,PH,PH
+15079,1,Hyde St & Mcallister St,19
+15081,2,Hyde St & North Point St,PH,PH
+15080,1,Hyde St & North Point St,PH
+15083,2,Hyde St & Pacific Ave,PH,PH
+15082,1,Hyde St & Pacific Ave,PH
+15084,1,Hyde St & Pine St,27
+15087,1,Hyde St & Turk St,19
+15089,2,Hyde St & Union St,PH,PH
+15088,1,Hyde St & Union St,PH
+15090,1,Hyde St & Vallejo St,PH
+15091,2,Hyde St & Vallejo St,PH,PH
+15092,2,Industrial St & Bay Shore Blvd,24,24
+15093,1,Industrial St & Bay Shore Blvd,24
+15094,1,Industrial St & Elmira St,24
+15095,1,Industrial St & Palou Ave,24
+15096,2,Industrial St & Revere Ave,24,24
+15106,1,Ingalls St & Beatrice Ln,54
+15108,1,Ingalls St & Harbor Rd,44
+15107,2,Ingalls St & Harbor Rd,44,44
+18058,0,Ingalls St & Kiska Rd
+18053,1,Ingalls St & Lasalle Ave,15
+18057,1,Ingalls St & Lasalle Ave,15
+18054,1,Ingalls St & Oakdale Ave,15
+18056,1,Ingalls St & Oakdale Ave,15
+18066,1,Ingalls St & Palou Ave,15
+15110,1,Ingalls St & Revere Ave,54
+15111,1,Ingalls St & Thomas Ave,54
+15112,1,Ingalls St & Thomas Ave,54
+15114,1,Ingalls St & Van Dyke Ave,54
+15113,1,Ingalls St & Van Dyke Ave,54
+15115,2,Ingerson Ave & Griffith St,29,29
+15116,2,Ingerson Ave & Hawes St,29,29
+15099,1,Innes Ave & Arelious Walker Dr,19
+15098,1,Innes Ave & Earl St,19
+15097,1,Innes Ave & Earl St,19
+15100,1,Innes Ave & Fitch St,19
+15101,1,Innes Ave & Griffith St,19
+15102,1,Innes Ave & Griffith St,19
+15103,1,Innes Ave & Hunters Point Blvd,19
+15104,1,Innes Ave & Hunters Point Blvd,19
+15118,3,Irving St & 2nd Ave,NOWL,NBUS,N
+18031,4,Irving St & 5th Ave,N,NBUS,N,NOWL
+18032,3,Irving St & 6th Ave,NOWL,NBUS,N
+17996,4,Irving St & 8th Ave,N,NBUS,N,NOWL
+15124,4,Irving St & Arguello Blvd,N,NBUS,N,NOWL
+15145,2,Jackson St & Divisadero St,24,24
+15147,2,Jackson St & Fillmore St,24,24
+15150,1,Jackson St & Hyde St,PH
+15151,1,Jackson St & Hyde St,27
+15152,1,Jackson St & Jones St,PH
+15154,1,Jackson St & Leavenworth St,PH
+15156,0,Jackson St & Mason St
+15158,1,Jackson St & Polk St,27
+15160,2,Jackson St & Scott St,24,24
+15161,1,Jackson St & Scott St,24
+15162,2,Jackson St & Steiner St,24,24
+15163,1,Jackson St & Steiner St,24
+15164,1,Jackson St & Taylor St,PH
+15165,0,Jackson St & Van Ness Ave
+15166,0,Jackson St & Van Ness Ave
+15167,0,Jackson St & Webster St
+15173,3,Jefferson St & Divisadero St,30,30,30
+15174,3,Jefferson St & Powell St,LOWL,F,FBUS
+15175,3,Jefferson St & Taylor St,LOWL,F,FBUS
+18051,2,Jerrold Ave & Donahue St,15,15
+15131,1,John Muir Dr & Skyline Blvd,58
+15132,1,John Muir Dr & Skyline Blvd,58
+15184,0,Jones St & Beach St
+18049,1,Jones St & Ellis St,27
+15185,1,Jones St & Geary St,27
+17977,1,Jones St & O'Farrell St,27
+15186,1,Jones St & Post St,27
+15187,0,Jones St & Sutter St
+18050,1,Jones St & Turk St,27
+15170,1,Juan Bautista Cir & Font Blvd,57
+17078,1,Juan Bautista Cir & Font Blvd,57
+15221,2,Judah/La Playa/Ocean Beach,NOWL,NBUS
+15223,0,Judah/La Playa/Ocean Beach
+17219,0,Judah/La Playa/Ocean Beach
+15196,4,Judah St & 12th Ave,N,NBUS,N,NOWL
+15195,3,Judah St & 12th Ave,NOWL,NBUS,N
+15197,4,Judah St & 15th Ave,N,NBUS,N,NOWL
+15198,3,Judah St & 16th Ave,NOWL,NBUS,N
+15200,0,Judah St & 19th Ave
+15199,0,Judah St & 19th Ave
+15201,4,Judah St & 22nd Ave,N,NBUS,N,NOWL
+15202,3,Judah St & 23rd Ave,NOWL,NBUS,N
+15204,4,Judah St & 25th Ave,N,NBUS,N,NOWL
+15203,3,Judah St & 25th Ave,NOWL,NBUS,N
+15205,3,Judah St & 28th Ave,NOWL,NBUS,N
+15206,4,Judah St & 28th Ave,N,NBUS,N,NOWL
+15207,3,Judah St & 31st Ave,NOWL,NBUS,N
+15208,4,Judah St & 31st Ave,N,NBUS,N,NOWL
+15209,3,Judah St & 34th Ave,NOWL,NBUS,N
+15210,4,Judah St & 34th Ave,N,NBUS,N,NOWL
+15211,3,Judah St & 40th Ave,NOWL,NBUS,N
+15212,4,Judah St & 40th Ave,N,NBUS,N,NOWL
+15214,4,Judah St & 43rd Ave,N,NBUS,N,NOWL
+15213,3,Judah St & 43rd Ave,NOWL,NBUS,N
+15216,4,Judah St & 46th Ave,N,NBUS,N,NOWL
+15215,3,Judah St & 46th Ave,NOWL,NBUS,N
+15189,3,Judah St & 5th Ave,6,6,43
+15190,2,Judah St & 6th Ave,43,6
+15191,2,Judah St & 7th Ave,43,6
+15192,3,Judah St & 7th Ave,6,6,43
+15194,4,Judah St & 9th Ave,N,NBUS,N,NOWL
+15193,3,Judah St & 9th Ave,NOWL,NBUS,N
+15220,4,Judah St & Funston Ave,N,NBUS,N,NOWL
+15219,3,Judah St & Funston Ave,NOWL,NBUS,N
+15224,2,Judah St & Sunset Blvd,NOWL,NBUS
+15225,1,Judah St & Sunset Blvd,NOWL
+15171,1,Judson Ave & Gennessee St,43
+15172,1,Judson Ave & Gennessee St,43
+15134,2,Junipero Serra Blvd & Brotherhood Way,28,28
+15136,1,Junipero Serra Blvd & Font Blvd,28
+15138,2,Junipero Serra Blvd & Ocean Ave,KBUS,91
+17114,1,Junipero Serra Blvd & Ocean Ave,K
+17113,2,Junipero Serra Blvd & Ocean Ave,K,K
+15139,0,Junipero Serra Blvd & Ocean Ave
+15140,2,Junipero Serra Blvd & Palmetto Av,28,28
+15135,1,Junipero Serra Blvd / S.F. Golf Club,28
+15141,2,Junipero Serra Blvd & Sloat Blvd,57,KBUS
+15227,1,Kansas St & 23rd St,19
+15228,4,Kansas St & 25th St,48,48,19,48
+15229,4,Kansas St & 26th St,48,48,19,48
+14818,3,Kearny St & Bush St,8BX,8AX,8
+14819,3,Kearny St & California St,8BX,8AX,8
+14820,3,Kearny St & Clay St,8BX,8AX,8
+14821,5,Kearny St & Geary St,8AX,TBUS,91,8BX,8
+14822,3,Kearny St & Jackson St,8BX,8AX,8
+14823,0,Kearny St & North Point St
+14824,0,Kearny St & Pacific Ave
+14826,3,Kearny St & Sutter St,8BX,8AX,8
+15233,1,Keith St & Oakdale Ave,44
+15232,2,Keith St & Oakdale Ave,44,44
+15236,2,King St & 2nd St,NOWL,NBUS
+15234,2,King St & 2nd St,N,N
+15235,2,King St & 2nd St,NOWL,NBUS
+15237,2,King St & 2nd St,N,N
+15239,0,King St & 4th St
+15240,0,King St & 4th St
+18052,2,Kirkwood Ave & Earl St,15,15
+14827,3,Kiska Rd & Dormitory Rd,15,15,54
+15242,1,Kiska Rd & Ingalls St,54
+14817,3,Kiska Rd & Reardon Rd,15,15,54
+14877,1,Laguna Honda Blvd & Balceta Ave,43
+14876,1,Laguna Honda Blvd & Balceta Ave,43
+14878,3,Laguna Honda Blvd & Clarendon Ave,43,36,44
+15243,3,Laguna Honda Blvd & Clarendon Ave,44,36,43
+15244,4,Laguna Honda Blvd & Dewey Blvd,44,36,43,52
+15247,0,Laguna Honda Blvd/Forest Hill Sta
+15249,1,Laguna Honda Blvd & Idora Ave,43
+15250,1,Laguna Honda Blvd & Idora Ave,43
+15245,0,Laguna Honda Blvd/Opp Forest Hill
+15254,1,Laguna Honda Blvd & Portola Dr,43
+15255,1,Laguna Honda Blvd & Ulloa St,43
+15256,1,Laguna Honda Blvd & Vasquez Ave,43
+15258,1,Laguna St & Chestnut St,43
+15257,1,Laguna St & Chestnut St,43
+15260,1,Laguna St & Hayes St,21
+14833,1,Lake Merced Blvd & Font Blvd,57
+14837,1,Lake Merced Blvd & Lake Merced Hills Blvd,58
+14836,1,Lake Merced Blvd & Lake Merced Hills Blvd,58
+14840,1,Lake Merced Blvd/Sfsu,57
+17851,1,Lake Merced & Lakeshore,18
+17852,2,Lake Merced & Lakeshore,18,18
+14839,3,Lake Merced & Middlefield Dr,58,18,29
+14838,5,Lake Merced & Middlefield Dr,58,18,29,29,18
+14843,3,La Playa St & Cabrillo St,5,5R,5
+14842,2,La Playa St & Cabrillo St,5,5R
+14844,4,La Playa St & Fulton St,18,5,18,5R
+14845,1,Larkin St & Beach St,19
+14846,1,Larkin St & Eddy St,19
+14847,1,Larkin St & Golden Gate Ave,19
+14848,1,Larkin St & Grove St,19
+17287,1,Larkin St & Mcallister St,19
+14851,1,Larkin St & O'Farrell St,19
+15288,1,La Salle Ave & Ingalls St,54
+15289,1,La Salle Ave & Newcomb Ave,54
+15290,1,La Salle Ave & Osceola Dr,54
+14857,2,Lawton St & 11th Ave,66,66
+14856,1,Lawton St & 11th Ave,66
+14853,2,Lawton St & 7th Ave,43,44
+14852,2,Lawton St & 7th Ave,44,43
+14855,2,Lawton St & 9th Ave,66,66
+14854,2,Lawton St & 9th Ave,44,43
+14858,0,Lawton St & Funston Ave
+14859,0,Lawton St & Funston Ave
+14860,1,Lawton St & Lomita Ave,66
+14861,2,Lawton St & Lomita Ave,66,66
+14862,1,Leavenworth St & Bush St,27
+14863,1,Leavenworth St & California St,27
+14864,1,Leavenworth St & Clay St,27
+14865,1,Leavenworth St & Geary St,27
+14866,1,Leavenworth St & Jackson St,27
+14867,1,Leavenworth St & O'Farrell St,27
+14868,1,Leavenworth St & Pine St,27
+14869,1,Leavenworth St & Post St,27
+14870,1,Leavenworth St & Sacramento St,27
+14871,0,Leavenworth St & Sutter St
+18048,1,Leavenworth St & Turk St,27
+14874,1,Legion Of Honor,18
+14873,0,Legion Of Honor
+15261,1,Legion Of Honor Dr & Clement St,18
+17328,2,Leland Ave & Alpha St,56,56
+17329,2,Leland Ave & Bayshore Blvd,56,56
+15294,1,Letterman Dr & Lincoln Blvd,43
+17149,0,Letterman Dr & Lombard St
+15293,0,Letterman Dr/Tides Bldg
+15263,2,Lincoln Blvd & Bowley St,29,29
+13705,2,Lincoln Blvd & Bowley St,29,29
+17027,2,Lincoln Blvd & Girard Rd,43,43
+15269,2,Lincoln Blvd & Pershing Dr,29,29
+15304,1,Lincoln Way & 15th Ave,7
+15305,1,Lincoln Way & 15th Ave,7
+15306,1,Lincoln Way & 17th Ave,7
+15307,1,Lincoln Way & 17th Ave,7
+17186,0,Lincoln Way & 19th Ave
+15309,0,Lincoln Way & 19th Ave
+15310,2,Lincoln Way & 21st Ave,29,7
+15311,3,Lincoln Way & 21st Ave,29,29,7
+15314,1,Lincoln Way & 25th Ave,29
+15315,2,Lincoln Way & 25th Ave,29,29
+15316,1,Lincoln Way & 27th Ave,29
+15317,2,Lincoln Way & 27th Ave,29,29
+15318,1,Lincoln Way & 29th Ave,29
+15319,2,Lincoln Way & 30th Ave,29,29
+15320,1,Lincoln Way & 31st Ave,29
+15321,1,Lincoln Way & 33rd Ave,29
+17853,2,Lincoln Way & 34th Ave,29,29
+15323,1,Lincoln Way & 35th Ave,29
+15295,1,Lincoln Way & 3rd Ave,7
+15324,2,Lincoln Way & 47th Ave,18,18
+15296,1,Lincoln Way & 5th Ave,7
+15297,1,Lincoln Way & 5th Ave,7
+15300,1,Lincoln Way & 9th Ave,7
+15301,1,Lincoln Way & 9th Ave,7
+15325,1,Lincoln Way & Arguello Blvd,7
+15326,1,Lincoln Way & Funston Ave,7
+15327,1,Lincoln Way & Funston Ave,7
+15328,2,Lincoln Way & Great Hwy,18,18
+15329,1,Lincoln Way & La Playa St,18
+17028,1,Lombard & Richardson Ave,43
+15272,3,Lombard St & Divisadero St,91,43,28
+15273,3,Lombard St & Divisadero St,43,28,91
+15275,2,Lombard St & Fillmore St,43,91
+15274,2,Lombard St & Fillmore St,43,91
+17800,2,Lombard St & Gough St,28,91
+17787,2,Lombard St & Gough St,91,28
+15277,1,Lombard St & Grant Ave,39
+15276,1,Lombard St & Grant Ave,39
+15278,1,Lombard St & Kearny St,39
+15279,1,Lombard St & Kearny St,39
+15280,2,Lombard St & Laguna St,28,91
+15281,2,Lombard St & Laguna St,91,28
+15283,1,Lombard St & Lyon St,43
+15282,1,Lombard St & Lyon St,43
+15284,3,Lombard St & Pierce St,91,43,28
+15285,3,Lombard St & Pierce St,43,28,91
+15286,1,Lombard St & Stockton St,39
+15291,1,Louisburg St & Geneva Ave,54
+15292,1,Louisburg St & Niagra Ave,54
+14781,0,Lower Great Hwy & Rivera St
+15330,2,Lyell St & Alemany Blvd,52,44
+15331,0,Lyon St & Greenwich St
+18012,2,Lyon St & Union St,45,45
+17992,1,Main St & Folsom St,12
+15334,0,Main St & Howard St
+15336,3,Main St & Market St,14R,12,14
+15335,0,Main St & Mission St
+15337,2,Mansell St & Brussels St,29,29
+15338,1,Mansell St & Brussels St,29
+15339,4,Mansell St & Dartmouth St,56,29,29,56
+15340,3,Mansell St & Dartmouth St,56,29,56
+15342,2,Mansell St & Goettingen St,29,29
+15341,1,Mansell St & Goettingen St,29
+15343,4,Mansell St & Hamilton St,56,29,29,56
+15344,3,Mansell St & Hamilton St,56,29,56
+15347,2,Mansell St & John F Shelley Dr,29,29
+15348,1,Mansell St & John F Shelley Dr,29
+15350,0,Mansell St & San Bruno Ave
+15349,0,Mansell St & San Bruno Ave
+15352,4,Mansell St & Somerset St,56,29,29,56
+15351,3,Mansell St & Somerset St,56,29,56
+15353,4,Mansell St & University St,56,29,29,56
+15354,3,Mansell St & Visitacion Ave,56,29,56
+14729,0,Marina Blvd & Laguna St
+15653,1,Market St & 15th St,37
+15654,3,Market St & 16th St,37,LOWL,KBUS
+15667,0,Market St & 17th St
+15638,5,Market St & 1st St,7,5R,5,38R,38
+17264,9,Market St & 1st St,LOWL,NOWL,KBUS,2,9R,6,NBUS,FBUS,9
+15639,13,Market St & 2nd St,NOWL,9,9,6,NBUS,F,KBUS,6,LOWL,9R,F,FBUS,7
+15640,9,Market St & 3rd St,LOWL,NOWL,KBUS,9R,6,NBUS,FBUS,F,9
+15641,3,Market St & 3rd St,5R,7,5
+15643,5,Market St & 4th St,LOWL,NOWL,KBUS,NBUS,FBUS
+15646,1,Market St & 5th St,7
+15645,9,Market St & 5th St,LOWL,NOWL,KBUS,9R,6,NBUS,FBUS,F,9
+15655,13,Market St & 5th  St,NOWL,9,9,6,NBUS,F,KBUS,6,LOWL,9R,F,FBUS,7
+15648,1,Market St & 6th St,7
+15647,9,Market St & 6th St,LOWL,NOWL,KBUS,9R,6,NBUS,FBUS,F,9
+15656,11,Market St & 7th St,NOWL,9,9,6,NBUS,KBUS,6,LOWL,9R,FBUS,7
+15650,7,Market St & 7th St,LOWL,NOWL,KBUS,9R,6,NBUS,9
+15649,1,Market St & 7th St,7
+15651,10,Market St & 8th St,LOWL,NOWL,KBUS,9R,6,NBUS,7,FBUS,F,9
+15652,10,Market St & 9th St,LOWL,NOWL,KBUS,9R,6,NBUS,7,FBUS,F,9
+15657,10,Market St & Battery St,NOWL,9,9,6,NBUS,KBUS,6,LOWL,9R,7
+15658,8,Market St & Beale St,LOWL,NOWL,KBUS,2,9R,6,NBUS,9
+15642,0,Market St Between 4th & 3rd St
+15644,4,Market St Between 5th & 4th St,7,5,5R,5
+15659,7,Market St & Buchanan St,NOWL,NBUS,KBUS,LOWL,F,FBUS,F
+15665,0,Market St & Castro St
+15662,0,Market St & Church St
+18062,2,Market St & Church St,LOWL,KBUS
+15661,2,Market St & Church St,LOWL,KBUS
+18015,2,Market St & Clayton St,LOWL,KBUS
+15663,3,Market St & Clayton St,33,KBUS,LOWL
+15668,6,Market St & Dolores St,LOWL,NOWL,KBUS,NBUS,FBUS,F
+15669,12,Market St & Drumm St,NOWL,9,9,6,NBUS,KBUS,6,LOWL,2,F,FBUS,F
+15671,1,Market St & Front St,2
+15672,7,Market St & Gough St,NOWL,NBUS,KBUS,LOWL,F,FBUS,F
+15673,6,Market St & Gough St,LOWL,NOWL,KBUS,NBUS,FBUS,F
+15674,3,Market St & Grant Ave,5,5R,5
+15675,6,Market St & Guerrero St,LOWL,NOWL,KBUS,NBUS,FBUS,F
+17423,1,Market St & Hyde St,19
+15676,13,Market St & Hyde St,NOWL,9,9,6,NBUS,F,KBUS,6,LOWL,9R,F,FBUS,7
+15678,13,Market St & Kearny St,NOWL,9,9,6,NBUS,F,KBUS,6,LOWL,9R,F,FBUS,7
+15681,7,Market St & Laguna St,NOWL,NBUS,KBUS,LOWL,F,FBUS,F
+15680,12,Market St & Larkin St,9,9,6,NBUS,F,KBUS,6,LOWL,9R,F,FBUS,7
+15682,2,Market St & Main St,F,FBUS
+15683,3,Market St & Mason St,5,5R,5
+15684,3,Market St & Montgomery St,5,5,5R
+15685,9,Market St & New Montgomery St,LOWL,NOWL,KBUS,9R,6,NBUS,FBUS,F,9
+15686,3,Market St & Noe St,F,FBUS,F
+15687,5,Market St & Noe St,37,LOWL,KBUS,FBUS,F
+15688,0,Market St & Powell St
+15691,4,Market St & Sanchez St,37,KBUS,LOWL,FBUS
+17123,1,Market St & Sanchez St,F
+15690,5,Market St & Sanchez St,KBUS,LOWL,F,FBUS,F
+15689,4,Market St & Sansome St,38,38R,38,38
+15692,0,Market St & South Van Ness Ave
+17227,0,Market St & Steuart St
+15693,4,Market St & Steuart St,NOWL,NBUS,14R,14
+15694,5,Market St & Stockton St,NOWL,NBUS,KBUS,LOWL,FBUS
+15695,13,Market St & Taylor St,NOWL,9,9,6,NBUS,F,KBUS,6,LOWL,9R,F,FBUS,7
+15696,0,Market St & Van Ness Ave
+15697,1,Marview Way & Panorama Dr,36
+15704,1,Masonic Ave & Frederick St,6
+15705,1,Masonic Ave & Fulton St,43
+15706,1,Masonic Ave & Fulton St,43
+15710,1,Masonic Ave & Geary Blvd,43
+15709,1,Masonic Ave & Geary Blvd,43
+15713,0,Masonic Ave & Haight St
+15712,0,Masonic Ave & Haight St
+15711,0,Masonic Ave & Haight St
+15714,1,Masonic Ave & Hayes St,43
+15715,1,Masonic Ave & Hayes St,43
+15716,1,Masonic Ave & Oak St,43
+15717,1,Masonic Ave & Oak St,43
+15719,1,Masonic Ave & Turk St,43
+15718,1,Masonic Ave & Turk St,43
+15356,2,Mason St & Broadway,PM,PM
+15355,1,Mason St & Broadway,PM
+15358,1,Mason St & Filbert St,PM
+15359,2,Mason St & Filbert St,PM,PM
+15362,1,Mason St & Green St,PM
+15363,2,Mason St & Green St,PM,PM
+15361,2,Mason St & Greenwich St,PM,PM
+15360,1,Mason St & Greenwich St,PM
+15365,2,Mason St & Jackson St,PM,PM
+15364,0,Mason St & Jackson St
+15367,2,Mason St & Pacific Ave,PM,PM
+15366,1,Mason St & Pacific Ave,PM
+18151,1,Mason St - Sports Basement,30
+18152,2,Mason St - Sports Basement,30,30
+18024,1,Mason St - Tunnel Top Park,30
+18027,2,Mason St - Tunnel Top Park,30,30
+15368,1,Mason St & Union St,PM
+15369,2,Mason St & Union St,PM,PM
+15371,2,Mason St & Vallejo St,PM,PM
+15370,1,Mason St & Vallejo St,PM
+15372,1,Mason St & Washington St,PH
+18023,1,Mason St - Yacht/Girard,30
+18028,2,Mason St - Yacht/Girard,30,30
+15384,2,Mcallister St & Baker St,5,5
+15385,2,Mcallister St & Baker St,5,5
+15389,3,Mcallister St & Divisadero St,5,5R,5
+15390,3,Mcallister St & Divisadero St,5,5R,5
+15391,0,Mcallister St & Fillmore St
+15392,0,Mcallister St & Fillmore St
+15393,2,Mcallister St & Gough St,5,5
+15394,2,Mcallister St & Gough St,5,5
+15395,2,Mcallister St & Hyde St,5,5
+15396,3,Mcallister St & Hyde St,21,5,5
+17563,1,Mcallister St & Jones St,27
+15398,3,Mcallister St & Laguna St,5,5R,5
+15399,3,Mcallister St & Laguna St,5,5R,5
+15397,2,Mcallister St & Larkin St,5,5
+17635,3,Mcallister St & Leavenworth St,5,5R,5
+15401,2,Mcallister St & Pierce St,5,5
+15400,2,Mcallister St & Pierce St,5,5
+15405,0,Mcallister St & Van Ness Ave
+15404,0,Mcallister St & Van Ness Ave
+17632,1,Mendell St & Cargo Way,91
+15505,1,Mendell St & Cargo Way,91
+15507,1,Mendell St & Newhall St,91
+15508,1,Mendell St & Newhall St,91
+15510,0,Mendell St Opposite Us Post Office
+15509,0,Mendell St/Us Post Office
+15728,0,Metro Castro Station/Downtown
+16991,0,Metro Castro Station/Outbound
+15726,4,Metro Church Station/Downtown,L,K,L,M
+16998,3,Metro Church Station/Outbound,M,K,L
+15727,6,Metro Civic Center Station/Downtn,L,J,K,L,N,M
+16997,5,Metro Civic Center Station/Outbd,K,L,N,M,J
+16992,0,Metro Embarcadero Station
+17217,0,Metro Embarcadero Station
+15730,4,Metro Forest Hill Station/Downtown,L,K,L,M
+15731,6,Metro Montgomery Station/Downtown,L,J,K,L,N,M
+16994,5,Metro Montgomery Station/Outbound,K,L,N,M,J
+15417,6,Metro Powell Station/Downtown,L,J,K,L,N,M
+16995,5,Metro Powell Station/Outbound,K,L,N,M,J
+15419,0,Metro Van Ness Station
+17719,3,Middle Point & Acacia,44,19,44
+15501,2,Middle Point Rd & Acacia Ave,44,19
+17187,2,Middle Point Rd & Hare St,44,19
+15500,3,Middle Point Rd & Innes Ave,44,19,44
+15504,3,Middle Point Rd & West Point Rd,44,19,44
+15503,2,Middle Point Rd & West Point Rd,44,19
+17867,1,Miguel St & Laidley St,35
+17868,1,Miguel St & Laidley St,35
+15514,1,Miraloma Dr & Bengal Aly,43
+15515,1,Miraloma Dr & Juanita Way,43
+15516,1,Miraloma Dr & Juanita Way,43
+15517,1,Miraloma Dr & Marne Ave,43
+15518,1,Miraloma Dr & Marne Ave,43
+15519,1,Miraloma Dr & Yerba Buena Ave,43
+17765,0,Mission Bay North & 3rd St
+17766,2,Mission Bay South & 4th St Se-Fs/ Bz,22,22
+15545,1,Mission St & 11th St,90
+15544,0,Mission St & 11th St
+15546,2,Mission St & 13th St,49,14
+15548,2,Mission St & 14th St,49,14
+15547,2,Mission St & 14th St,49,14
+15551,0,Mission St & 16th St
+15552,2,Mission St & 16th St,33,33
+15554,2,Mission St & 18th St,49,14
+15553,2,Mission St & 18th St,49,14
+15528,4,Mission St & 1st St,14,14R,14R,14
+15557,3,Mission St & 20th St,49,14R,14
+15558,4,Mission St & 20th St,49,14,14R,14R
+15562,2,Mission St & 22nd St,49,14
+15561,2,Mission St & 22nd St,49,14
+15565,0,Mission St & 24th St
+15566,0,Mission St & 24th St
+15567,2,Mission St & 26th St,49,14
+15568,2,Mission St & 26th St,49,14
+15529,4,Mission St & 2nd St,14,14R,14R,14
+15530,2,Mission St & 2nd St,14R,14
+15572,1,Mission St & 30th St,14
+15571,1,Mission St & 30th St,14
+15532,4,Mission St & 3rd St,14,14R,14R,14
+15531,2,Mission St & 3rd St,14R,14
+15534,4,Mission St & 4th St,14,14R,14R,14
+15533,2,Mission St & 4th St,14R,14
+15535,1,Mission St & 5th St,714
+15536,1,Mission St & 5th St,714
+15537,1,Mission St & 6th St,14
+15538,1,Mission St & 6th St,14
+17129,1,Mission St & 7th St,14
+15539,1,Mission St & 7th St,14
+15540,4,Mission St & 8th St,14,714,14R,14R
+15541,3,Mission St & 8th St,14R,714,14
+15543,1,Mission St & 9th St,14
+15542,1,Mission St & 9th St,14
+15574,2,Mission St & Acton St,14,14
+15575,2,Mission St & Allison St,14,14
+15578,2,Mission St & Appleton Ave,49,14
+15577,4,Mission St & Appleton Ave,49,49,14,14
+15579,4,Mission St & Beale St,14,14R,14R,14
+15580,2,Mission St & Bosworth St,49,14
+15583,4,Mission St & Cortland Ave,49,49,14,14
+15584,2,Mission St & Cortland Ave,49,14
+15585,3,Mission St & Evergreen St,14,14R,14
+15586,4,Mission St & Excelsior Ave,49,49,14,14
+17554,0,Mission St & Flournoy
+15588,1,Mission St & Flournoy St,14
+15589,1,Mission St & Foote Ave,14
+15590,2,Mission St & Francis St,49,14
+17945,2,Mission St & Fremont St,14R,14
+15592,0,Mission St & Geneva Ave
+15593,0,Mission St & Geneva Ave
+15594,3,Mission St & Goethe St,14,14R,14R
+15595,2,Mission St & Guttenberg St,14,14
+15597,2,Mission St & Highland Ave,49,14
+15596,4,Mission St & Highland Ave,49,49,14,14
+15598,1,Mission St & Italy Ave,14
+15599,2,Mission St & Italy Ave,14,14
+15600,1,Mission St & Lawrence Ave,14
+15602,2,Mission St & Lowell St,14R,14R
+15601,1,Mission St & Lowell St,14R
+15603,0,Mission St & Main St
+15604,1,Mission St & Mt Vernon Ave,14
+15605,4,Mission St & Murray St,49,49,14,14
+15608,2,Mission St & Oliver St,14,14
+15609,1,Mission St & Onondaga Ave,14
+15610,3,Mission St & Persia Ave,14,14R,14
+17841,5,Mission St & Power St,49,14,14,12,49
+15613,5,Mission St & Richland Ave,49,14,14,49,14R
+15614,4,Mission St & Richland Ave,49,14,14R,14R
+15615,2,Mission St & Russia Ave,14,14
+15616,3,Mission St & Ruth St,14,14R,14R
+17099,0,Mission St & San Jose Ave
+15619,3,Mission St & Sickles Ave,14,14R,14R
+15620,0,Mission St & Silver Ave
+15621,1,Mission St & Silver Ave,52
+17299,1,Mission St & South Van Ness Ave,14
+15623,2,Mission St & Spear St,14,14
+15625,2,Mission St & Trumbull St,49,14
+15624,4,Mission St & Trumbull St,49,49,14,14
+15626,3,Mission St & Valencia St,49,14,36
+15628,2,Mission St & Whittier St,14,14
+15627,1,Mission St & Whittier St,14
+15420,2,Monterey Blvd & Acadia St,23,36
+15423,2,Monterey Blvd & Baden St,36,23
+15422,2,Monterey Blvd & Baden St,23,36
+15425,2,Monterey Blvd & Congo St,36,23
+15424,2,Monterey Blvd & Congo St,23,36
+15427,2,Monterey Blvd & Detroit St,36,23
+15426,2,Monterey Blvd & Detroit St,23,36
+15429,2,Monterey Blvd & Edna St,36,23
+15428,2,Monterey Blvd & Edna St,23,36
+15430,1,Monterey Blvd & El Verano Way,23
+15431,1,Monterey Blvd & Faxon Ave,23
+15433,1,Monterey Blvd & Foerster St,23
+15432,2,Monterey Blvd & Foerster St,23,43
+15435,0,Monterey Blvd & Gennessee St
+15434,0,Monterey Blvd & Gennessee St
+15436,1,Monterey Blvd & Northgate Dr,23
+15438,1,Monterey Blvd & Plymouth Ave,23
+15437,2,Monterey Blvd & Plymouth Ave,23,43
+15440,2,Monterey Blvd & Ridgewood Ave,43,23
+15439,2,Monterey Blvd & Ridgewood Ave,23,43
+15441,1,Monterey Blvd & Saint Elmo Waye,23
+15442,1,Monterey Blvd & San Aleso Ave,23
+17425,1,Monterey Blvd & San Anselmo Ave,23
+15443,1,Monterey Blvd & San Jacinto Way,23
+15445,2,Monterey Blvd & Valdez Ave,43,23
+15444,2,Monterey Blvd & Valdez Ave,23,43
+17742,0,Morse St & Lowell St
+17985,1,Moscow St & Avalon Ave,54
+15698,1,Moscow St & Brazil Ave,54
+17983,1,Moscow St & Brazil St,54
+17984,1,Moscow St & Excelsior Ave,54
+15699,1,Moscow St & Excelsior Ave,54
+17981,1,Moscow St & France Ave,54
+15700,1,Moscow St & France Ave,54
+17979,1,Moscow St & Geneva Ave,54
+15702,1,Moscow St & Italy Ave,54
+17980,1,Moscow St & Italy Ave,54
+15703,1,Moscow St & Persia Ave,54
+17982,1,Moscow St & Russia Ave,54
+15446,1,Mt Vernon Ave & Howth St,54
+15447,1,Mt Vernon Ave & Louisburg St,54
+15630,1,Munich St & Cordova Ave,43
+15631,0,Munich St & Geneva Ave
+15632,1,Munich St & Naples St,43
+15452,0,Myra Way & Dalewood Way
+15453,2,Myra Way & Molimo Dr,36,36
+15454,2,Myra Way & Molimo Dr,36,36
+15456,2,Myra Way & Omar Way,36,36
+15455,2,Myra Way & Omar Way,36,36
+17307,2,Myra Way & Reposa Way,36,36
+15474,1,Naples St & Athens St,43
+15476,1,Naples St & Brazil Ave,52
+15475,1,Naples St & Brunswick St,43
+15477,1,Naples St & Curtis St,43
+15480,1,Naples St & Geneva Ave,43
+15482,1,Naples St & Rolph St,43
+15483,1,Naples St & Rolph St,43
+15485,1,Naples St & Seville St,43
+15769,1,Nevada St & Cortland Ave,67
+15770,1,Nevada St & Cortland Ave,67
+15486,2,Newcomb Ave & Keith St,44,44
+15487,1,Newcomb Ave & Keith St,44
+15489,2,Newcomb Ave & La Salle Ave,44,44
+15488,1,Newcomb Ave & La Salle Ave,44
+15490,2,Newcomb Ave & Newhall St,24,24
+17428,1,Newhall St & Fairfax Ave,44
+17772,0,Newhall St & Hudson
+15491,2,Newhall St & Oakdale Ave,24,24
+15733,2,Noe St & 27th St,24,24
+15732,2,Noe St & 27th St,24,24
+15734,2,Noe St & 28th St,24,24
+15735,2,Noe St & 28th St,24,24
+15736,2,Noe St & 29th St,24,24
+15737,2,Noe St & 29th St,24,24
+15738,2,Noe St & 30th St,24,24
+15739,1,Noriega St & 16th Ave,66
+15741,1,Noriega St & 24th Ave,7
+15742,1,Noriega St & 25th Ave,7
+15744,1,Noriega St & 27th Ave,7
+15745,1,Noriega St & 28th Ave,7
+15746,1,Noriega St & 29th Ave,7
+15747,1,Noriega St & 30th Ave,7
+15748,1,Noriega St & 31st Ave,7
+15752,1,Noriega St & 34th Ave,7
+15751,1,Noriega St & 34th Ave,7
+15753,1,Noriega St & 38th Ave,7
+15754,1,Noriega St & 39th Ave,7
+15755,1,Noriega St & 40th Ave,7
+15756,1,Noriega St & 41st Ave,7
+15757,1,Noriega St & 42nd Ave,7
+15758,1,Noriega St & 43rd Ave,7
+15759,1,Noriega St & 44th Ave,7
+15760,1,Noriega St & 45th Ave,7
+15761,1,Noriega St & 46th Ave,7
+15762,1,Noriega St & 46th Ave,7
+15763,1,Noriega St & 48th Ave,7
+15765,0,Noriega St & Sunset Blvd
+15764,0,Noriega St & Sunset Blvd
+15457,1,North Point St & Divisadero St,30X
+15458,5,North Point St & Hyde St,30,28,30,91,30
+15459,5,North Point St & Hyde St,30,28,91,30,30
+15460,1,North Point St & Jones St,28
+15461,1,North Point St & Jones St,28
+15462,2,North Point St & Kearny St,8,8BX
+15464,5,North Point St & Larkin St,30,28,30,91,30
+15467,1,North Point St & Mason St,28
+15466,1,North Point St & Mason St,28
+15468,5,North Point St & Polk St,30,28,30,91,30
+15469,6,North Point St & Polk St,30,28,19,30,91,30
+15471,0,North Point St & Stockton St
+15470,2,North Point St & Stockton St,8,8BX
+15472,1,North Point St & Van Ness Ave,91
+15766,3,Northridge Rd & Dormitory Rd,15,15,54
+15767,3,Northridge Rd & Harbor Rd,15,15,54
+15768,3,Northridge Rd & Ingalls St,15,15,54
+15775,1,Oakdale Ave & Baldwin Ct,23
+15774,1,Oakdale Ave & Barneveld Ave,23
+15776,1,Oakdale Ave & Griffith St,23
+15777,1,Oakdale Ave & Ingalls St,23
+17032,1,Oakdale Ave & Loomis St,23
+18003,1,Oakdale Ave & Toland St,23
+18013,1,Oakdale Ave & Toland St,23
+15820,1,Oakpark Dr & Forest Knolls Dr,36
+15780,3,Ocean Ave & Aptos Ave,K,91,KBUS
+15779,4,Ocean Ave & Aptos Ave,K,KBUS,K,91
+15781,2,Ocean Ave/Balboa Park BART Station,49,49
+15783,3,Ocean Ave & Cayuga Ave,49,49,29
+15782,3,Ocean Ave & Cayuga Ave,49,29,29
+15785,1,Ocean Ave/Ccsf Pedestrian Bridge,K
+15784,2,Ocean Ave/Ccsf Pedestrian Bridge,K,K
+15787,4,Ocean Ave & Dorado Ter,K,KBUS,K,91
+15788,4,Ocean Ave & Fairfield Way,K,KBUS,K,91
+18014,1,Ocean Ave & Geneva Ave,KBUS
+17036,3,Ocean Ave & Geneva Ave,29,91,KBUS
+15791,3,Ocean Ave & Howth St,49,49,29
+15790,3,Ocean Ave & Howth St,49,29,29
+17804,3,Ocean Ave & I-280 On Ramp,49,29,29
+15793,3,Ocean Ave & Jules Ave,K,91,KBUS
+15792,2,Ocean Ave & Junipero Serra Blvd,91,KBUS
+15795,4,Ocean Ave & Lee St,K,29,91,KBUS
+15794,6,Ocean Ave & Lee St,KBUS,29,29,K,K,91
+15798,3,Ocean Ave & Miramar Ave,K,91,KBUS
+15797,4,Ocean Ave & Miramar Ave,K,KBUS,K,91
+15796,0,Ocean Ave & Mission St
+17638,3,Ocean Ave & Otsego Ave,49,29,29
+15800,3,Ocean Ave & Otsego Ave,49,49,29
+15801,0,Ocean Ave & Persia Ave
+15804,1,Ocean Ave & San Jose Ave,49
+15805,3,Ocean Ave & San Jose St,49,49,29
+15807,3,Ocean Ave & San Leandro Way,K,91,KBUS
+15806,4,Ocean Ave & San Leandro Way,K,KBUS,K,91
+15808,3,Ocean Ave & Victoria St,K,91,KBUS
+15810,2,O'Farrell St & Grant Ave,38R,38
+15813,1,O'Farrell St & Larkin St,38
+15814,1,O'Farrell St & Leavenworth St,38
+15817,0,O'Farrell St & Powell St
+17301,2,O'Farrell St & Taylor St,38R,38
+15818,0,O'Farrell St & Van Ness Ave
+15821,1,Olympia Way & Clarendon Ave,36
+15823,1,Olympia Way & Dellbrook Ave,36
+15822,1,Olympia Way & Dellbrook Ave,36
+15824,1,Olympia Way & Panorama Dr,36
+15825,1,Orizaba Ave & Broad St,M
+15827,1,Ortega St & 10th Ave,6
+15828,0,Ortega St & 48th Ave
+15826,2,Ortega St & 9th Ave,6,6
+15831,1,O'Shaughnessy Blvd & Del Vale Ave,44
+15830,1,O'Shaughnessy Blvd & Del Vale Ave,44
+15832,1,O'Shaughnessy Blvd & Malta Dr,44
+15833,1,O'Shaughnessy Blvd & Malta Dr,44
+15834,1,O'Shaughnessy Blvd & Portola Dr,44
+17870,1,Otis & Mccoppin St,49
+15836,2,Otis St & 12th St,49,14
+15837,1,Pacific Ave & Grant Ave,12
+15839,2,Pacific Ave & Hyde St,12,12
+15838,1,Pacific Ave & Hyde St,12
+15840,1,Pacific Ave & Jones St,12
+15841,2,Pacific Ave & Jones St,12,12
+15842,1,Pacific Ave & Kearny St,12
+15843,1,Pacific Ave & Larkin St,12
+15844,2,Pacific Ave & Larkin St,12,12
+15845,1,Pacific Ave & Leavenworth St,12
+15846,2,Pacific Ave & Leavenworth St,12,12
+15848,2,Pacific Ave & Mason St,12,12
+15847,1,Pacific Ave & Mason St,12
+15849,1,Pacific Ave & Montgomery St,12
+15850,1,Pacific Ave & Polk St,12
+15851,2,Pacific Ave & Polk St,12,12
+18118,0,Pacific Ave & Powell St
+15853,0,Pacific Ave & Powell St
+15852,0,Pacific Ave & Powell St
+15854,1,Pacific Ave & Sansome St,12
+17737,1,Pacific Ave & Stockton St,12
+15857,2,Pacific Ave & Taylor St,12,12
+15856,1,Pacific Ave & Taylor St,12
+17919,0,Pacific Ave & Van Ness Ave
+15859,3,Pacific Ave & Van Ness Ave,12,12,27
+15863,0,Palou Ave & 3rd St
+15864,0,Palou Ave & 3rd St
+18055,0,Palou Ave & 3rd St
+15865,1,Palou Ave & Crisp Rd,23
+15866,1,Palou Ave & Hawes St,23
+15867,3,Palou Ave & Industrial St,23,24,24
+15869,2,Palou Ave & Ingalls St,15,23
+15868,1,Palou Ave & Ingalls St,23
+15870,1,Palou Ave & Jennings St,23
+15871,1,Palou Ave & Jennings St,23
+15872,2,Palou Ave & Keith St,15,23
+15873,2,Palou Ave & Keith St,44,44
+15874,3,Palou Ave & Keith St,44,15,23
+15876,2,Palou Ave & Lane St,44,23
+15875,3,Palou Ave & Lane St,44,44,23
+17756,2,Palou Ave & Newhall St,24,24
+15878,3,Palou Ave & Newhall St,23,44,44
+15877,3,Palou Ave & Newhall St,44,23,24
+15879,5,Palou Ave & Phelps St,44,23,24,44,24
+15880,3,Palou Ave & Phelps St,44,23,24
+15882,2,Palou Ave & Quint St,23,24
+15881,5,Palou Ave & Quint St,44,23,24,44,24
+15883,3,Palou Ave & Rankin St,23,24,24
+15884,2,Palou Ave & Rankin St,23,24
+15981,1,Panorama Dr & Dellbrook Ave,36
+15982,1,Panorama Dr & Starview Way,36
+15947,2,Park Presidio Blvd & Balboa St,28,91
+15946,2,Park Presidio Blvd & Balboa St,91,28
+15949,1,Park Presidio Blvd & California St,91
+15950,3,Park Presidio Blvd & Fulton St,28R,91,28
+15951,3,Park Presidio Blvd & Fulton St,28R,28,91
+15953,2,Park Presidio Blvd & Geary Blvd,28R,28
+15952,2,Park Presidio Blvd & Geary Blvd,28R,28
+15948,1,Park Presidio & California Street,91
+16086,0,Parkridge Dr & Burnett Ave
+16087,1,Parkridge Dr & Crestline Dr,37
+15885,2,Parnassus Ave & 4th Ave,43,6
+17687,3,Parnassus Ave &4th Ave,6,6,43
+15889,2,Parnassus Ave & Cole St,43,6
+15890,3,Parnassus Ave & Cole St,6,6,43
+15891,2,Parnassus Ave & Hillway Ave,43,6
+15892,3,Parnassus Ave & Hillway Ave,6,6,43
+15894,3,Parnassus Ave & Shrader St,6,6,43
+15893,2,Parnassus Ave & Shrader St,43,6
+15896,3,Parnassus Ave & Stanyan St,6,6,43
+15895,2,Parnassus Ave & Stanyan St,43,6
+15897,2,Parnassus Ave & Willard St,43,6
+15898,3,Parnassus Ave & Willard St,6,6,43
+15899,2,Paul Ave & Bay Shore Blvd,29,29
+15900,1,Paul Ave & Carr St,29
+15901,2,Paul Ave & Crane St,29,29
+15903,1,Paul Ave & Gould St,29
+15902,2,Paul Ave & Gould St,29,29
+15904,2,Paul Ave & San Bruno Ave,29,29
+15905,1,Paul Ave & Wheat St,29
+17849,1,Pennslvania Ave & 20th St,55
+17523,3,Pennsylvania Avenue & 23rd Street,48,48,48
+17527,1,Pennsylvania Avenue & 23rd Street,48
+17526,1,Pennsylvania Avenue & 25th Street,48
+17524,3,Pennsylvania Avenue & 25th Street,48,48,48
+15907,2,Persia Ave & Athens St,29,29
+15906,1,Persia Ave & Athens St,29
+15908,1,Persia Ave & Brazil Ave,29
+15909,2,Persia Ave & Brazil Ave,29,29
+15910,2,Persia Ave & Madrid St,29,29
+15911,1,Persia Ave & Madrid St,29
+15913,1,Persia Ave & Mission St,29
+15912,2,Persia Ave & Mission St,29,29
+15915,1,Persia Ave & Moscow St,29
+15914,3,Persia Ave & Moscow St,29,29,54
+15917,1,Persia Ave & Naples St,29
+15916,2,Persia Ave & Naples St,29,29
+15918,2,Persia Ave & Paris St,29,29
+15919,1,Persia Ave & Paris St,29
+15920,2,Persia Ave & Prague St,29,29
+15921,2,Persia Ave & Prague St,54,29
+15930,1,Phelps St & Carroll Ave,54
+15931,1,Phelps St & Carroll Ave,54
+15932,1,Phelps St & Donner Ave,54
+15933,1,Phelps St & Egbert Ave,54
+15940,1,Phelps St & Williams Ave,54
+15944,1,Pine St & Montgomery St,1X
+15954,1,Plymouth Ave & Broad St,54
+17230,1,Plymouth Ave & Broad St,54
+15960,2,Plymouth Ave & Grafton Ave,29,29
+15958,1,Plymouth Ave & Grafton Ave,54
+15962,1,Plymouth Ave & Holloway Ave,29
+15961,2,Plymouth Ave & Holloway Ave,29,29
+15963,1,Plymouth Ave & Lakeview Ave,54
+15964,1,Plymouth Ave & Lakeview Ave,54
+15965,1,Plymouth Ave & Lobos St,54
+15966,1,Plymouth Ave & Lobos St,54
+15968,1,Plymouth Ave & Mangels Ave,43
+15967,1,Plymouth Ave & Mangels Ave,43
+15972,1,Plymouth Ave & Montana St,54
+15971,1,Plymouth Ave & Montana St,54
+15973,1,Plymouth Ave & Monterey Blvd,43
+15974,1,Plymouth Ave & Ocean Ave,29
+15975,2,Plymouth Ave & Ocean Ave,29,29
+15977,1,Plymouth Ave & Sagamore St,54
+15976,1,Plymouth Ave & Sagamore St,54
+15979,1,Plymouth Ave & Thrift St,54
+15978,1,Plymouth Ave & Thrift St,54
+15980,1,Plymouth Ave & Yerba Buena Ave,43
+16109,3,Point Lobos Ave & 42nd Ave,38R,38,38
+16111,2,Point Lobos Ave & 44th Ave,38,38R
+16129,2,Point Lobos Ave & 46th Ave,38,38R
+15984,1,Polk St & Broadway,19
+15983,1,Polk St & Broadway,19
+15987,1,Polk St & Francisco St,19
+15988,1,Polk St & Francisco St,19
+15990,1,Polk St & Lombard St,19
+15991,1,Polk St & Lombard St,19
+15992,1,Polk St & North Point St,19
+15993,1,Polk St & O'Farrell St,19
+15995,1,Polk St & Pine St,19
+15996,1,Polk St & Pine St,19
+15997,0,Polk St & Post St
+16000,0,Polk St & Sacramento St
+15999,0,Polk St & Sacramento St
+16002,0,Polk St & Sutter St
+16004,1,Polk St & Union St,19
+16003,1,Polk St & Union St,19
+16006,1,Polk St & Washington St,19
+16007,2,Polk St & Washington St,19,27
+17151,2,Portola Ave & Claremont Ave,48,48
+16010,2,Portola Dr & Burnett Ave,LOWL,KBUS
+16011,1,Portola Dr & Claremont Blvd,48
+16012,2,Portola Dr & Clipper St,LOWL,KBUS
+16013,2,Portola Dr & Del Sur Ave,48,43
+16014,2,Portola Dr & Dorchester Way,48,48
+16112,3,Portola Dr & Glenview Dr,LOWL,48,52
+16015,4,Portola Dr & Glenview Dr,48,LOWL,52,48
+16113,2,Portola Dr & Laguna Honda Blvd,48,48
+16114,1,Portola Dr & Laguna Honda Blvd,48
+16121,2,Portola Dr & O'Shaughnessy Blvd,KBUS,48
+16118,2,Portola Dr & Rex Ave,48,43
+16120,1,Portola Dr & San Lorenzo Ave,48
+16117,1,Portola Dr & San Pablo Ave,48
+16116,2,Portola Dr & San Pablo Ave,48,48
+16122,3,Portola Dr & Waithman Way,43,48,48
+16123,2,Portola Dr & Woodside Ave,48,48
+16124,1,Post St & Gough St,2
+16125,1,Post St & Grant Ave,2
+16126,1,Post St & Hyde St,2
+16127,1,Post St & Jones St,2
+16019,1,Post St & Kearny St,2
+16018,1,Post St & Laguna St,2
+16016,1,Post St & Larkin St,2
+16017,1,Post St & Leavenworth St,2
+16020,1,Post St & Octavia St,2
+16021,1,Post St & Polk St,2
+16022,0,Post St & Powell St
+16023,1,Post St & Taylor St,2
+16024,0,Post St & Van Ness Ave
+17298,2,Potrero Ave&15th St,90,9
+16027,0,Potrero Ave & 16th St
+16026,0,Potrero Ave & 16th St
+17912,4,Potrero Ave & 19th St,33,90,9,9
+17909,4,Potrero Ave & 19th St,90,33,9,33
+16034,4,Potrero Ave & 21st St,33,90,9,9
+17908,4,Potrero Ave & 21st St,90,33,9,33
+16037,5,Potrero Ave & 23rd St,33,90,9,9,9R
+16039,1,Potrero Ave & 24th St,33
+16038,3,Potrero Ave & 24th St,33,48,33
+16040,2,Potrero Ave & 25th St,90,9
+16043,3,Potrero Ave & Alameda St,90,9,9
+16119,5,Potrero Ave At Sf General Hospital,33,9R,90,9,33
+17910,4,Potrero Ave & Mariposa St,90,33,9,33
+17911,4,Potrero Ave & Mariposa St,33,90,9,9
+16045,3,Powell St & Bay St,8BX,39,8
+16046,1,Powell St & Beach St,39
+17038,0,Powell St & Beach St
+16047,4,Powell St & Bush St,PM,PH,PH,PM
+16048,2,Powell St & Bush St,PH,PM
+16049,4,Powell St & California St,PM,PH,PH,PM
+16050,2,Powell St & California St,PH,PM
+16051,4,Powell St & Clay St,PM,PH,PH,PM
+16052,2,Powell St & Clay St,PH,PM
+16054,4,Powell St & Filbert St,8,8BX,8,39
+16056,3,Powell St & Francisco St,8BX,39,8
+16055,3,Powell St & Francisco St,8,8BX,39
+16058,4,Powell St & Geary St,PM,PH,PH,PM
+16057,2,Powell St & Geary St,PH,PM
+16059,4,Powell St & Jackson St,PM,PH,PH,PM
+16061,4,Powell St & Lombard St,8,8BX,8,39
+16060,3,Powell St & Lombard St,8BX,39,8
+16064,0,Powell St & Market St
+16063,0,Powell St & Market St
+16066,3,Powell St & North Point St,8,8BX,39
+16065,1,Powell St & North Point St,39
+16067,2,Powell St & O'Farrell St,PH,PM
+16068,4,Powell St & O'Farrell St,PM,PH,PH,PM
+16069,4,Powell St & Pine St,PM,PH,PH,PM
+16070,2,Powell St & Pine St,PH,PM
+16071,2,Powell St & Post St,PH,PM
+16072,4,Powell St & Post St,PM,PH,PH,PM
+16073,4,Powell St & Sacramento St,PM,PH,PH,PM
+16074,2,Powell St & Sacramento St,PH,PM
+16076,2,Powell St & Sutter St,PH,PM
+16075,4,Powell St & Sutter St,PM,PH,PH,PM
+16080,1,Prague St & Cordova Ave,43
+16081,1,Prague St & Drake St,43
+16083,1,Prague St & Persia Ave,54
+16082,1,Prague St & Persia Ave,52
+16085,1,Prague St & Russia Ave,54
+16084,1,Prague St & Russia Ave,54
+16088,0,Presidio Ave & California St
+16089,0,Presidio Ave & California St
+16091,1,Presidio Ave & Clay St,43
+16090,1,Presidio Ave & Clay St,43
+16092,1,Presidio Ave & Geary Blvd,43
+16093,1,Presidio Ave & Geary Blvd,43
+16095,1,Presidio Ave & Jackson St,43
+16094,1,Presidio Ave & Jackson St,43
+16098,2,Presidio Ave & Sutter St,2,43
+16099,1,Presidio Ave & Sutter St,43
+17783,1,Presidio Blvd & Letterman Dr,43
+16104,1,Presidio Blvd & Letterman Dr,43
+16106,1,Presidio Blvd & Simonds Loop,43
+16107,1,Presidio Blvd & Sumner Ave,43
+17383,2,Presidio Transit Center,43,43
+16135,1,Quintara St & 12th Ave,6
+16136,2,Quintara St & 12th Ave,6,6
+16137,2,Quintara St & 16th Ave,66,66
+16139,2,Quintara St & 17th Ave,48,66
+17573,1,Quintara St & 17th Ave,66
+16140,3,Quintara St & 19th Ave,48,66,48
+16141,2,Quintara St & 19th Ave,48,66
+16143,2,Quintara St & 22nd Ave,48,66
+16142,3,Quintara St & 22nd Ave,48,66,48
+16144,3,Quintara St & 24th Ave,48,66,48
+16145,2,Quintara St & 24th Ave,48,66
+16147,2,Quintara St & 26th Ave,48,66
+16146,3,Quintara St & 26th Ave,48,66,48
+16149,2,Quintara St & 27th Ave,48,66
+16148,3,Quintara St & 27th Ave,48,66,48
+16150,3,Quintara St & 28th Ave,48,66,48
+16151,2,Quintara St & 28th Ave,48,66
+16152,3,Quintara St & 29th Ave,48,66,48
+16153,2,Quintara St & 29th Ave,48,66
+16155,1,Quintara St & 31st Ave,48
+16154,2,Quintara St & 31st Ave,48,48
+16156,2,Quintara St & 33rd Ave,48,48
+16157,1,Quintara St & 33rd Ave,48
+16159,1,Quintara St & 35th Ave,48
+16158,2,Quintara St & 35th Ave,48,48
+16160,0,Quintara St & 36th Ave
+16161,1,Quintara St & 39th Ave,48
+16162,1,Quintara St & 41st Ave,48
+16163,1,Quintara St & 41st Ave,48
+16165,1,Quintara St & 44th Ave,48
+16166,1,Quintara St & 46th Ave,48
+16167,1,Quintara St & 48th Ave,48
+16168,1,Quintara St & Cragmont Ave,6
+16169,2,Quintara St & Cragmont Ave,6,6
+16170,1,Quintara St & Funston Ave,6
+16171,2,Quintara St & Funston Ave,6,6
+17885,1,Quintra St & 43rd Ave,48
+16177,1,Randall St & Whitney St,36
+16173,1,Randolph St & Arch St,M
+16172,3,Randolph St & Arch St,M,M,M
+16175,1,Randolph St & Bright St,M
+16174,3,Randolph St & Bright St,M,M,M
+17331,1,Raymond Ave & Delta St,56
+17335,1,Raymond Ave & Elliot St,56
+17330,1,Raymond Ave & Rutland St,56
+17332,1,Raymond Ave & Sawyer St,56
+16184,1,Reddy St & Thornton Ave,54
+16185,1,Reddy St & Williams Ave,54
+16228,2,Reposa Way & Myra Way,36,36
+16229,0,Reposa Way & Teresita Blvd
+16248,1,Revere Ave & 3rd St,54
+16249,1,Revere Ave & 3rd St,54
+16250,1,Revere Ave & Ingalls St,54
+16251,1,Revere Ave & Jennings St,54
+16252,1,Revere Ave & Jennings St,54
+16254,1,Revere Ave & Lane St,54
+16253,1,Revere Ave & Lane St,54
+16188,1,Rhode Island St & 15th St,19
+16187,1,Rhode Island St & 15th St,19
+16189,1,Rhode Island St & 16th St,19
+16190,1,Rhode Island St & 16th St,19
+16191,1,Rhode Island St & 17th St,19
+16192,1,Rhode Island St & 18th St,19
+16193,1,Rhode Island St & 19th St,19
+16195,1,Rhode Island St & 20th St,19
+16196,1,Rhode Island St & 22nd St,19
+16197,0,Rhode Island St & 23rd St
+16198,2,Rhode Island St & 24th St,19,48
+16199,2,Rhode Island St & 25th St,19,48
+16200,2,Rhode Island St & 26th St,19,48
+16201,1,Rhode Island St & Alameda St,19
+16202,1,Rhode Island St & Alameda St,19
+16203,1,Rhode Island St & Mariposa St,19
+16204,1,Rhode Island St & Southern Heights Ave,19
+16182,2,Richardson Ave & Francisco St,28,91
+16181,2,Richardson Ave & Francisco St,91,28
+16213,2,Right Of Way/18th St,J,J
+16214,1,Right Of Way/20th St,J
+16215,2,Right Of Way/20th St,J,J
+16217,2,Right Of Way/21st St,J,J
+16216,1,Right Of Way/21st St,J
+16219,1,Right Of Way/Eucalyptus Dr,M
+16220,3,Right Of Way/Eucalyptus Dr,M,M,M
+16221,1,Right Of Way/Liberty St,J
+16222,2,Right Of Way/Liberty St,J,J
+16223,1,Right Of Way/Ocean Ave,M
+16224,3,Right Of Way/Ocean Ave,M,M,M
+16208,1,Ripley St & Alabama St,67
+16209,1,Ripley St & Alabama St,67
+16210,1,Ripley St & Folsom St,67
+16211,1,Ripley St & Folsom St,67
+16245,1,Rivera St & 37th Ave,48
+16246,1,Rivera St & 46th Ave,48
+16247,1,Rivera St & 48th Ave,48
+16232,1,Roosevelt Way & 14th St,37
+16233,1,Roosevelt Way & 15th St,37
+16234,1,Roosevelt Way & 17th St,37
+16235,1,Roosevelt Way & 17th St,37
+17310,1,Roosevelt Way & Buena Vista Ter,37
+16237,1,Roosevelt Way & Clifford Ter,37
+16236,1,Roosevelt Way & Clifford Ter,37
+16238,1,Roosevelt Way & Lower Ter,37
+16239,1,Roosevelt Way & Lower Ter,37
+16240,1,Roosevelt Way & Museum Way,37
+16212,3,Rousseau St & Cayuga Ave,44,44,52
+16241,1,Russia Ave & Moscow St,54
+17039,1,Rutland St & Arleta Ave,56
+17041,0,Rutland St & Campbell Ave
+16243,2,Rutland St & Leland Ave,56,56
+17044,2,Rutland St & Sunnydale Ave,56,56
+17046,2,Rutland St & Visitacion Ave,56,56
+16290,4,Sacramento St & Battery St,1X,1,12,1
+16291,2,Sacramento St & Buchanan St,1,1
+16292,1,Sacramento St & Buchanan St,1
+16293,0,Sacramento St & Cherry St
+16294,3,Sacramento St & Davis St,1,12,1
+16296,0,Sacramento St & Fillmore St
+16295,0,Sacramento St & Fillmore St
+16297,2,Sacramento St & Franklin St,1,1
+16298,2,Sacramento St & Gough St,1,1
+16299,2,Sacramento St & Grant Ave,1,1
+16300,2,Sacramento St & Hyde St,1,1
+16301,2,Sacramento St & Jones St,1,1
+16302,2,Sacramento St & Kearny St,1,1
+16305,2,Sacramento St & Laguna St,1,1
+16306,1,Sacramento St & Laguna St,1
+16303,2,Sacramento St & Larkin St,1,1
+16304,2,Sacramento St & Leavenworth St,1,1
+16307,2,Sacramento St & Montgomery St,1,1
+16309,2,Sacramento St & Octavia St,1,1
+16310,1,Sacramento St & Octavia St,1
+16311,0,Sacramento St & Polk St
+16312,0,Sacramento St & Powell St
+16314,0,Sacramento St & Sansome St
+16315,2,Sacramento St & Sproule Ln,1,1
+16316,2,Sacramento St & Stockton St,1,1
+16317,2,Sacramento St & Van Ness Ave,1,1
+16319,2,Sacramento St & Webster St,1,1
+16320,1,Sacramento St & Webster St,1
+16323,1,Sagamore St & Capitol Ave,54
+16322,1,Sagamore St & Capitol Ave,54
+16324,1,Sagamore St & Orizaba Ave,54
+16508,1,Saint Francis Blvd & San Fernando Way,23
+16507,1,Saint Francis Blvd & San Fernando Way,23
+16505,1,Saint Francis Blvd & Santa Ana Ave,23
+16506,1,Saint Francis Blvd & Santa Ana Ave,23
+16504,1,Saint Francis Blvd & Santa Clara Ave,23
+16352,2,San Bruno Ave & Arleta Ave,8AX,8
+16357,6,San Bruno Ave & Bacon St,90,8,9,9,9R,8AX
+16355,6,San Bruno Ave & Bacon St,8AX,9R,9,90,9,8
+16358,6,San Bruno Ave & Dwight St,90,8,9,9,9R,8AX
+17900,5,San Bruno Ave & Felton St,90,8,9,9,8AX
+17899,5,San Bruno Ave & Harkness Ave,8AX,9R,90,9,8
+16361,5,San Bruno Ave & Mansell St,90,8,9,9,8AX
+16360,4,San Bruno Ave & Mansell St,90,8AX,9,8
+16362,6,San Bruno Ave & Paul Ave,8AX,9R,9,90,9,8
+16363,1,San Bruno Ave & Paul Ave,29
+16365,0,San Bruno Ave & Silver Ave
+16364,0,San Bruno Ave & Silver Ave
+16366,5,San Bruno Ave & Somerset St,90,8,9,9,8AX
+17191,5,San Bruno Ave & Somerset St,8AX,56,90,9,8
+16367,5,San Bruno Ave & Thornton Ave,8AX,9,90,9,8
+16369,5,San Bruno Ave & Ward St,90,8,9,9,8AX
+16373,5,San Bruno Ave & Wayland St,8AX,9,90,9,8
+16371,6,San Bruno Ave & Wilde Ave,90,8,9,9,9R,8AX
+16372,3,San Bruno Ave & Woolsey St,90,9,9
+16259,1,San Jose Ave & Farallones St,M
+16257,3,San Jose Ave & Farallones St,M,M,M
+16260,0,San Jose Ave & Geneva Ave
+18080,0,San Jose Ave & Geneva Ave
+17164,0,San Jose Ave & Geneva Ave
+17778,0,San Jose Ave & Geneva Ave
+16262,0,San Jose Ave & Geneva Ave
+14788,1,San Jose Ave/Glen Park Station,J
+14787,2,San Jose Ave/Glen Park Station,J,J
+16266,1,San Jose Ave & Lakeview Ave,M
+16265,3,San Jose Ave & Lakeview Ave,M,M,M
+16269,0,San Jose Ave & Niagra Ave
+16274,1,San Jose Ave & Ocean Ave,J
+16275,2,San Jose Ave & Ocean Ave,J,J
+16277,2,San Jose Ave & Randall St,J,J
+16280,1,San Jose Ave & Randall St,J
+16284,2,San Jose Ave & Santa Rosa Ave,J,J
+16285,1,San Jose Ave & Santa Rosa Ave,J
+16287,1,San Jose Ave & Santa Ynez Ave,J
+16288,2,San Jose Ave & Santa Ynez Ave,J,J
+16327,1,Sansome St & California St,30X
+16328,1,Sansome St & Clay St,30X
+17863,0,Sansome St & Jackson St
+16332,1,Sansome St & Pine St,1X
+16333,0,Sansome St & Sacramento St
+16337,1,Sansome St & Washington St,12
+16374,1,Santa Clara Ave & Monterey Blvd,23
+16375,1,Santa Clara Ave & Saint Francis Blvd,23
+16467,1,Santiago St & 14th Ave,48
+16468,2,Santiago St & 17th Ave,48,48
+16339,2,Santos St & Brookdale Ave,9,9R
+16340,2,Santos St & Brookdale Ave,9,9R
+16344,2,Santos St & Geneva Ave,9,9R
+16343,2,Santos St & Geneva Ave,8BX,91
+18115,4,Santos St & Sunrise Way,8BX,8,91,8
+16346,5,Santos St & Velasco Ave,8,9R,9,91,8BX
+16345,6,Santos St & Velasco Ave,9,91,9R,8BX,8,8
+17333,1,Sawyer St & Visitacion Ave,56
+16383,2,Schwerin St & Garrison Ave,9,9R
+16382,2,Schwerin St & Garrison Ave,9,9R
+16384,2,Schwerin St & Geneva Ave,9,9R
+16385,2,Schwerin St & Macdonald Ave,9,9R
+16386,2,Schwerin St & Sunnydale Ave,9,9R
+16387,2,Schwerin St & Sunnydale Ave,9,9R
+16388,2,Schwerin St & Velasco Ave,9,9R
+16389,2,Schwerin St & Velasco Ave,9,9R
+16376,1,Scott St & North Point St,30X
+18121,1,Seven Seas Ave & Bruton St,25
+18122,1,Seven Seas Ave & Bruton St,25
+18149,1,Seven Seas Ave & Johnson St,25
+18018,0,Shoreline Access Road
+16394,2,Silver Ave & Alemany Blvd,52,44
+16393,3,Silver Ave & Alemany Blvd,44,44,52
+16395,2,Silver Ave & Augusta St,44,44
+16397,1,Silver Ave & Bay Shore Blvd,44
+16396,2,Silver Ave & Boylston St,44,44
+16398,2,Silver Ave & Cambridge St,44,44
+16399,1,Silver Ave & Cambridge St,44
+16400,2,Silver Ave & Charter Oak Ave,44,44
+16401,2,Silver Ave & Congdon St,44,44
+16402,1,Silver Ave & Congdon St,44
+16404,1,Silver Ave & Dartmouth St,44
+16405,2,Silver Ave & Dartmouth St,44,44
+16407,1,Silver Ave & Gambier St,44
+16406,2,Silver Ave & Gambier St,44,44
+16408,1,Silver Ave & Holyoke St,44
+17431,2,Silver Ave & Lisbon St,44,44
+16410,1,Silver Ave & Lisbon St,44
+16411,2,Silver Ave & Merrill St,44,44
+16412,1,Silver Ave & Merrill St,44
+16414,0,Silver Ave & Mission St
+16413,1,Silver Ave & Mission St,52
+16415,0,Silver Ave & Mission St
+16416,1,Silver Ave & Palou Ave,44
+16417,2,Silver Ave & Princeton St,44,44
+16418,1,Silver Ave & Princeton St,44
+16419,1,Silver Ave & Revere Ave,44
+16420,2,Silver Ave & Revere Ave,44,44
+16421,0,Silver Ave & San Bruno Ave
+16422,0,Silver Ave & San Bruno Ave
+17288,1,Silver Ave & Santa Fe Ave,44
+16424,2,Silver Ave & Topeka Ave,44,44
+16431,1,Skyline Blvd & Harding Rd,58
+16432,1,Skyline Blvd & Lake Merced Blvd,58
+16434,2,Skyline Blvd & Sloat Blvd,18,58
+17815,1,Skyline Blvd & Sloat Blvd,58
+16433,2,Skyline Blvd & Sloat Blvd,18,18
+16429,1,Skyline Blvd & Zoo Rd,58
+16426,1,Skyview Way & Aquavista Way,36
+16427,1,Skyview Way & City View Way,36
+16428,1,Skyview Way & Gladeview Dr,36
+16436,1,Sloat Blvd & 19th Ave,23
+16435,1,Sloat Blvd & 19th Ave,23
+16438,1,Sloat Blvd & 21st Ave,23
+16437,1,Sloat Blvd & 21st Ave,23
+16439,1,Sloat Blvd & 23rd Ave,23
+16440,1,Sloat Blvd & 26th Ave,23
+16441,1,Sloat Blvd & 34th Ave,23
+16443,1,Sloat Blvd & 36th Ave,23
+16442,2,Sloat Blvd & 36th Ave,23,58
+16444,1,Sloat Blvd & 37th Ave,23
+16445,1,Sloat Blvd & 39th Ave,23
+16447,2,Sloat Blvd & 41st Ave,18,23
+16446,3,Sloat Blvd & 41st Ave,18,23,18
+16451,2,Sloat Blvd & 45th Ave,18,23
+16450,3,Sloat Blvd & 45th Ave,18,23,18
+16453,0,Sloat Blvd & 47th Ave
+17208,1,Sloat Blvd & 47th Ave,23
+16454,1,Sloat Blvd & Clearfield Dr,23
+16455,1,Sloat Blvd & Constanso Way,23
+16456,1,Sloat Blvd & Crestlake Dr,23
+16457,1,Sloat Blvd & El Mirasol Pl,23
+16458,1,Sloat Blvd & Everglade Dr,23
+16459,1,Sloat Blvd & Forest View Dr,23
+16460,1,Sloat Blvd & Paraiso Pl,23
+16461,1,Sloat Blvd & Skyline Blvd,23
+16462,1,Sloat Blvd & Sylvan Dr,23
+16463,1,Sloat Blvd & Vale Ave,23
+16465,0,Sloat Blvd & West Portal Ave
+16464,0,Sloat Blvd & West Portal Ave
+16469,1,South Hill Blvd & Chicago Way,43
+16470,1,South Hill Blvd & Prague St,43
+16471,1,South Hill Blvd & Rolph St,43
+16472,1,South Hill Blvd & Rolph St,43
+17532,1,South Van Ness Ave & 24th St,67
+18088,0,South Van Ness Ave & Market St
+17995,2,Spear St & Folsom St,12,12
+16475,7,Spear St & Market St,KBUS,2,9R,6,12,9,12
+17994,2,Spear St & Mission St,12,12
+16478,1,Stanyan St & Frederick St,7
+16479,1,Stanyan St & Fulton St,33
+16481,1,Stanyan St & Hayes St,33
+16480,2,Stanyan St & Hayes St,33,33
+16482,2,Stanyan St & Oak St,33,33
+16483,1,Stanyan St & Waller St,7
+16425,1,Starr King Way & Gough St,38
+16484,1,St Charles Ave & Alemany Blvd,54
+16485,1,St Charles Ave & Belle Ave,54
+16486,2,Steiner St & California St,1,1
+16488,2,Steiner St & Green St,22,22
+16487,1,Steiner St & Green St,22
+16489,1,Steiner St & Sacramento St,1
+16491,0,Steiner St & Union St
+16490,0,Steiner St & Union St
+16493,2,Steiner St & Vallejo St,22,22
+16492,1,Steiner St & Vallejo St,22
+17833,0,Steuart St & Don Chee Way
+16501,7,Steuart St & Market St,NOWL,6,NBUS,KBUS,6,LOWL,2
+16497,0,Steuart St & Mission St
+16498,1,Steuart St & Mission St,14R
+16509,3,Still St & Lyell St,44,44,52
+16511,5,Stockton St & Clay St,30,30,91,45,30
+16513,8,Stockton St & Columbus Ave,91,8,30,45,30,8,8BX,30
+16512,5,Stockton St & Columbus Ave,30,30,91,45,30
+16515,1,Stockton St & Filbert St,39
+16516,9,Stockton St & Geary St,8,TBUS,30,45,91,8AX,8,8BX,30
+16518,1,Stockton St & Greenwich St,39
+16517,1,Stockton St & Greenwich St,39
+16519,1,Stockton St & Lombard St,39
+16521,9,Stockton St & Pacific Ave,91,8,30,45,30,8AX,8,8BX,30
+16520,5,Stockton St & Pacific Ave,30,30,91,45,30
+16522,9,Stockton St & Sacramento St,91,8,30,45,30,8AX,8,8BX,30
+16524,0,Stockton St & Sutter St
+16523,1,Stockton St & Sutter St,TBUS
+16525,1,Stockton St & Union St,39
+18117,0,Stockton St & Washington St
+18116,5,Stockton St & Washington St,30,30,91,45,30
+16526,9,Stockton St & Washington St,91,8,30,45,30,8AX,8,8BX,30
+16569,2,Sunnydale Ave & Bay Shore Blvd,9,9R
+17297,2,Sunnydale Ave & Bay Shore Blvd,9,9R
+16571,2,Sunnydale Ave & Cora St,9,9R
+16570,4,Sunnydale Ave & Cora St,56,9,56,9R
+16573,2,Sunnydale Ave & Garrison Ave,56,56
+16575,0,Sunnydale Ave / Mclaren School
+16574,0,Sunnydale Ave / Mclaren School
+16576,2,Sunnydale Ave & Rutland St,9,9R
+16580,2,Sunnydale Ave & Sawyer St,56,56
+16582,2,Sunnydale Ave & Schwerin St,56,56
+16583,2,Sunnydale Ave & Talbert St,9,9R
+16584,2,Sunnydale Ave & Talbert St,9,9R
+18114,3,Sunrise Way & Santos St,8,8BX,91
+16530,2,Sunset Blvd & Judah St,29,29
+16529,1,Sunset Blvd & Judah St,29
+16536,2,Sunset Blvd & Lawton St,29,29
+16535,1,Sunset Blvd & Lawton St,29
+16540,0,Sunset Blvd & Noriega St
+16539,0,Sunset Blvd & Noriega St
+16542,3,Sunset Blvd & Ocean Ave,29,29,58
+16541,2,Sunset Blvd & Ocean Ave,58,29
+16543,2,Sunset Blvd & Ortega St,29,29
+16544,1,Sunset Blvd & Ortega St,29
+16547,2,Sunset Blvd & Quintara St,29,29
+16548,1,Sunset Blvd & Quintara St,29
+16549,1,Sunset Blvd & Rivera St,48
+16550,2,Sunset Blvd & Rivera St,29,29
+16556,2,Sunset Blvd & Taraval St,29,29
+16555,1,Sunset Blvd & Taraval St,29
+16559,1,Sunset Blvd & Vicente St,29
+16560,2,Sunset Blvd & Vicente St,29,29
+16563,3,Sunset Blvd & Yorba St,29,29,58
+16564,1,Sunset Blvd & Yorba St,29
+17318,2,Sunset Tunnel East Portal,N,N
+16585,1,Sutter St & Baker St,2
+16586,1,Sutter St & Baker St,2
+16588,1,Sutter St & Buchanan St,2
+16587,1,Sutter St & Buchanan St,2
+16590,1,Sutter St & Divisadero St,2
+16589,1,Sutter St & Divisadero St,2
+16592,0,Sutter St & Fillmore St
+16591,0,Sutter St & Fillmore St
+16593,1,Sutter St & Gough St,2
+16594,1,Sutter St & Hyde St,2
+16595,1,Sutter St & Jones St,2
+16596,2,Sutter St & Kearny St,2,91
+16599,1,Sutter St & Laguna St,2
+16600,1,Sutter St & Laguna St,2
+16597,1,Sutter St & Larkin St,2
+16598,1,Sutter St & Leavenworth St,2
+16601,1,Sutter St & Mason St,2
+16602,1,Sutter St & Octavia St,2
+16603,1,Sutter St & Polk St,2
+16604,0,Sutter St & Powell St
+16605,0,Sutter St & Presidio Ave
+16606,0,Sutter St & Sansome St
+16608,1,Sutter St & Scott St,2
+16607,1,Sutter St & Scott St,2
+16609,1,Sutter St & Steiner St,2
+16610,1,Sutter St & Steiner St,2
+16611,1,Sutter St & Stockton St,2
+16612,1,Sutter St & Taylor St,2
+16613,0,Sutter St & Van Ness Ave
+16615,4,Taraval St & 17th Ave,L,L,LOWL,L
+16617,1,Taraval St & 19th Ave,LOWL
+16616,1,Taraval St & 19th Ave,LOWL
+16619,4,Taraval St & 22nd Ave,L,L,LOWL,L
+16620,2,Taraval St & 23rd Ave,LOWL,L
+16622,2,Taraval St & 26th Ave,LOWL,L
+16623,4,Taraval St & 26th Ave,L,L,LOWL,L
+16626,2,Taraval St & 30th Ave,LOWL,L
+16627,4,Taraval St & 30th Ave,L,L,LOWL,L
+16628,2,Taraval St & 32nd Ave,LOWL,L
+16629,4,Taraval St & 32nd Ave,L,L,LOWL,L
+16633,4,Taraval St & 40th Ave,L,L,LOWL,L
+16632,2,Taraval St & 40th Ave,LOWL,L
+16634,2,Taraval St & 42nd Ave,LOWL,L
+16635,4,Taraval St & 42nd Ave,L,L,LOWL,L
+16637,4,Taraval St & 44th Ave,L,L,LOWL,L
+16636,2,Taraval St & 44th Ave,LOWL,L
+16638,2,Taraval St & 46th Ave,LOWL,L
+16640,1,Taraval St & Sunset Blvd,LOWL
+16641,1,Taraval St & Sunset Blvd,LOWL
+16642,0,Taylor St & Bay St
+16644,0,Taylor St & Bay St
+16645,2,Taylor St & Columbus Ave,PM,PM
+16646,1,Taylor St & Francisco St,PM
+14772,1,Tea Garden Dr/Deyoung Museum,44
+16654,1,Telegraph Hill Blvd & Filbert St,39
+16656,1,Telegraph Hill Blvd & Greenwich St,39
+16655,1,Telegraph Hill Blvd & Greenwich St,39
+16662,1,Teresita Blvd & Bella Vista Way,36
+16663,1,Teresita Blvd & El Sereno Ct,36
+16664,1,Teresita Blvd & El Sereno Ct,36
+16665,1,Teresita Blvd & Evelyn Way,36
+16667,1,Teresita Blvd & Foerster St,36
+16668,1,Teresita Blvd & Foerster St,36
+16666,1,Teresita Blvd & Foerster St,36
+16669,1,Teresita Blvd & Fowler Ave,36
+16671,1,Teresita Blvd & Gaviota Way,36
+16670,1,Teresita Blvd & Gaviota Way,36
+16673,1,Teresita Blvd & Isola Way,36
+16672,1,Teresita Blvd & Isola Way,36
+16675,1,Teresita Blvd & Marietta Dr,36
+16676,1,Teresita Blvd & Marietta Dr,36
+16677,1,Teresita Blvd & Portola Dr,36
+16679,0,Teresita Blvd & Reposa Way
+16678,0,Teresita Blvd & Reposa Way
+16680,1,Teresita Blvd & Stillings Ave,36
+16681,1,Teresita Blvd & Stillings Ave,36
+14501,3,The Embarcadero & Bay St,LOWL,F,FBUS
+14502,5,The Embarcadero & Bay St,LOWL,F,FBUS,LOWL,F
+17447,2,The Embarcadero & Brannan St,NOWL,NBUS
+17145,2,The Embarcadero & Brannan St,N,N
+14506,2,The Embarcadero & Brannan St,N,N
+14503,3,The Embarcadero & Broadway,LOWL,F,FBUS
+14504,5,The Embarcadero & Broadway,LOWL,F,FBUS,LOWL,F
+14513,3,The Embarcadero & Ferry Building,LOWL,F,FBUS
+17283,4,The Embarcadero & Ferry Building,F,LOWL,FBUS,F
+14509,0,The Embarcadero & Folsom St
+14510,0,The Embarcadero & Folsom St
+14511,2,The Embarcadero & Folsom St,NOWL,NBUS
+14508,2,The Embarcadero & Folsom St,NOWL,NBUS
+14518,5,The Embarcadero & Green St,LOWL,F,FBUS,LOWL,F
+14517,3,The Embarcadero & Green St,LOWL,F,FBUS
+14516,5,The Embarcadero & Greenwich St,LOWL,F,FBUS,LOWL,F
+14515,3,The Embarcadero & Greenwich St,LOWL,F,FBUS
+14520,1,The Embarcadero & Howard St,NOWL
+14529,5,The Embarcadero & Sansome St,LOWL,F,FBUS,LOWL,F
+14530,2,The Embarcadero & Stockton St,LOWL,39
+14531,2,The Embarcadero & Townsend St,NOWL,NBUS
+14532,3,The Embarcadero & Washington St,LOWL,F,FBUS
+14534,5,The Embarcadero & Washington St,LOWL,F,FBUS,LOWL,F
+17376,2,Third St & Le Conte Ave,TBUS,91
+17377,2,Third St & Marin St,15,91
+17378,2,Third St & Marin St,15,91
+17381,2,Third St & Mariposa St,TBUS,91
+17382,2,Third St & Mariposa St,TBUS,91
+17355,0,Third Street & 20th St
+17362,0,Third Street & 20th St
+17363,1,Third Street & 23rd St,T
+17354,1,Third Street & 23rd St,T
+17343,2,Third Street & Carroll Ave,T,T
+17344,1,Third Street & Carroll Ave,T
+17365,1,Third Street & Evans Ave,T
+17352,2,Third Street & Evans Ave,T,T
+17342,0,Third Street/Gilman/Paul
+17347,0,Third Street/Gilman/Paul
+17390,1,Third Street/Hudson/Innes,T
+17404,2,Third Street/Hudson/Innes,T,T
+17403,2,Third Street/Kirkwood/La Salle,T,T
+17391,1,Third Street/Kirkwood/La Salle,T
+17394,1,Third Street & Le Conte Ave,T
+17400,2,Third Street & Le Conte Ave,T,T
+17353,0,Third Street & Marin St
+17364,0,Third Street & Marin St
+17359,1,Third Street & Mission Rock St,T
+17358,1,Third Street & Mission Rock St,T
+17402,0,Third Street/Oakdale/Palou
+17392,0,Third Street/Oakdale/Palou
+17393,1,Third Street/Revere/Shafter,T
+17401,2,Third Street/Revere/Shafter,T,T
+17345,2,Third Street & Williams Ave,T,T
+17346,1,Third Street & Williams Ave,T
+17760,1,Thornton Dr & Scotia Ave,54
+17128,1,Tioga Ave & Rutland St,56
+16702,1,Topeka Ave & Bridge View Dr,54
+16703,1,Topeka Ave & Newhall St,54
+16704,1,Topeka Ave & Thornton Ave,54
+16705,1,Topeka Ave & Venus St,54
+16695,3,Townsend St & 4th St,NOWL,45,31
+17235,0,Townsend St & 4th St
+17957,0,Townsend St & 5th St
+17960,0,Townsend St & 7th St
+18110,0,Townsend St & Lusk St
+18109,0,Townsend St & Lusk St
+17918,1,Transit Center Bay 27,25
+17948,0,Transit Center Bay 29
+17914,0,Transit Center Bay B
+17915,0,Transit Center Bay C
+17916,0,Transit Center Bay D
+17917,0,Transit Center Bay E
+16709,3,Turk St & Arguello Blvd,31,31,31
+16710,1,Turk St & Baker St,31
+16711,2,Turk St & Baker St,31,31
+16713,2,Turk St & Broderick St,31,31
+16712,1,Turk St & Broderick St,31
+16717,2,Turk St & Central Ave,31,31
+16716,1,Turk St & Central Ave,31
+16715,3,Turk St & Chabot Ter,31,31,31
+16714,1,Turk St & Chabot Ter,31
+16718,1,Turk St & Hyde St,31
+16719,1,Turk St & Jones St,31
+16720,1,Turk St & Larkin St,31
+16721,1,Turk St & Leavenworth St,31
+16722,1,Turk St & Lyon St,31
+16723,2,Turk St & Lyon St,31,31
+16724,0,Turk St & Masonic Ave
+16725,0,Turk St & Masonic Ave
+16727,1,Turk St & Parker Ave,31
+16728,3,Turk St & Parker Ave,31,31,31
+16729,3,Turk St & Roselyn Ter,31,31,31
+16730,1,Turk St & Roselyn Ter,31
+16731,1,Turk St & Stanyan St,31
+16732,3,Turk St & Stanyan St,31,31,31
+16733,1,Turk St & Taylor St,31
+17357,1,Ucsf / Chase Center (16th St),T
+17360,1,Ucsf / Chase Center (16th Street),T
+17361,1,Ucsf Medical Center (Mariposa),T
+17356,1,Ucsf Medical Center (Mariposa),T
+18136,1,Ulloa St & 14th Ave,L
+18137,3,Ulloa St & 14th Ave,L,L,L
+16735,1,Ulloa St & 30th Ave,66
+18039,0,Ulloa St & Claremont St
+16736,3,Ulloa St & Forest Side Ave,48,LOWL,48
+16737,2,Ulloa St & Forest Side Ave,LOWL,48
+16738,0,Ulloa St & Lenox Way
+16744,0,Ulloa St & West Portal Ave
+17976,0,Ulloa St & West Portal Ave
+17877,0,Union Square/Market St Station Northbound
+17874,0,Union Square/Market St Station Southbound
+16745,1,Union St & Baker St,45
+16746,2,Union St & Baker St,45,45
+17056,1,Union St & Buchanan St,45
+16748,1,Union St & Buchanan St,45
+16750,0,Union St & Columbus Ave
+16751,0,Union St & Columbus Ave
+16753,2,Union St & Divisadero St,45,45
+16752,1,Union St & Divisadero St,45
+16755,1,Union St & Fillmore St,45
+16754,2,Union St & Fillmore St,22,22
+16757,1,Union St & Gough St,45
+16756,1,Union St & Gough St,45
+16759,1,Union St & Grant Ave,39
+16758,1,Union St & Grant Ave,39
+16761,1,Union St & Hyde St,45
+16760,1,Union St & Hyde St,45
+16763,1,Union St & Jones St,45
+16762,1,Union St & Jones St,45
+16765,1,Union St & Kearny St,39
+16764,1,Union St & Kearny St,39
+16771,1,Union St & Laguna St,45
+16770,1,Union St & Laguna St,45
+16766,1,Union St & Larkin St,45
+16767,1,Union St & Larkin St,45
+16768,1,Union St & Leavenworth St,45
+16769,1,Union St & Leavenworth St,45
+16774,1,Union St & Mason St,45
+16773,1,Union St & Mason St,45
+16775,1,Union St & Montgomery St,39
+16776,0,Union St & Montgomery St
+16777,1,Union St & Pierce St,45
+16778,0,Union St & Pierce St
+16780,1,Union St & Polk St,45
+16779,1,Union St & Polk St,45
+16782,1,Union St & Stockton St,39
+16785,1,Union St & Taylor St,45
+16783,1,Union St & Taylor St,45
+16786,0,Union St & Van Ness Ave
+16787,0,Union St & Van Ness Ave
+16789,1,University St & Bacon St,54
+16788,1,University St & Bacon St,54
+16792,1,University St & Felton St,54
+16793,1,University St & Woolsey St,54
+16796,1,Upper Ter & Buena Vista Ave West,37
+16797,1,Upper Ter & Masonic Ave,37
+15511,0,V.A. Hospital
+16877,1,Valencia St & 24th St,27
+16879,1,Valencia St & 25th St,27
+16882,0,Valencia St & Cesar Chavez St
+17902,0,Valencia St & Mission St
+16839,1,Van Dyke Ave & Jennings St,54
+16840,1,Van Dyke Ave & Jennings St,54
+16842,1,Van Dyke Ave & Keith St,54
+16841,1,Van Dyke Ave & Keith St,54
+16806,5,Van Ness Ave & Bay St,30,90,91,49,30
+18092,2,Van Ness Ave & Bush St,90,49
+16801,6,Van Ness Ave & Chestnut St,30,90,28,49,49,30
+16800,3,Van Ness Ave & Chestnut St,90,49,28
+18093,2,Van Ness Ave & Clay St,90,49
+18103,3,Van Ness Ave & Eddy St,49,90,49
+18090,2,Van Ness Ave & Eddy St,90,49
+18091,1,Van Ness Ave & Geary Blvd,49
+18099,3,Van Ness Ave & Jackson St,49,90,49
+18105,0,Van Ness Ave & Market St
+18104,3,Van Ness Ave & Mcallister St,49,90,49
+18089,2,Van Ness Ave & Mcallister St,90,49
+17476,0,Van Ness Ave & North Point St
+16819,1,Van Ness Ave & North Point St,91
+16820,0,Van Ness Ave & North Point St
+18102,0,Van Ness Ave & O'Farrell St
+18094,2,Van Ness Ave & Pacific St,90,49
+18100,3,Van Ness Ave & Sacramento St,49,90,49
+18101,3,Van Ness Ave & Sutter St,49,90,49
+18096,1,Van Ness Ave & Union St,90
+18097,1,Van Ness Ave & Union St,90
+18095,2,Van Ness Ave & Vallejo St,90,49
+18098,3,Van Ness Ave & Vallejo St,49,90,49
+16996,0,Van Ness Station Outbound
+16844,1,Vesta St & Phelps St,54
+16835,0,Vicente St & 30th Ave
+16837,2,Vicente St & West Portal Ave,48,48
+16847,3,Visitacion Ave & Bay Shore Blvd,8,8BX,91
+16846,4,Visitacion Ave & Britton St,8BX,8,91,8
+16845,3,Visitacion Ave & Britton St,8,8BX,91
+16848,4,Visitacion Ave & Cora St,8BX,8,91,8
+16851,4,Visitacion Ave & Rutland St,8BX,8,91,8
+16850,3,Visitacion Ave & Rutland St,8,8BX,91
+16853,4,Visitacion Ave & Sawyer St,8BX,8,91,8
+16852,3,Visitacion Ave & Sawyer St,8,8BX,91
+16855,4,Visitacion Ave & Schwerin St,8BX,8,91,8
+16854,3,Visitacion Ave & Schwerin St,8,8BX,91
+17057,0,Visitacion Valley Middle School
+16911,1,Warren Dr & Christopher Dr,36
+16912,1,Warren Dr & Devonshire Way,36
+16913,1,Warren Dr & Locksley Ave,36
+16914,1,Warren Dr & Oakpark Dr,36
+16920,2,Washington St & Jones St,PH,PH
+16921,1,Washington St & Larkin St,27
+16922,2,Washington St & Leavenworth St,PH,PH
+16924,0,Washington St & Mason St
+16925,0,Washington St & Mason St
+16927,2,Washington St & Powell St,PH,PM
+16929,2,Washington St & Taylor St,PH,PH
+16931,1,Washington St & Webster St,24
+16932,0,Wawona/46th Ave /Sf Zoo
+17125,4,West Portal Ave & 14th Ave,M,K,91,KBUS
+16896,1,West Portal Ave & 14th Ave,57
+16898,7,West Portal Ave & 14th Ave,M,KBUS,M,K,K,91,M
+17306,1,West Portal Ave & 14th Ave,57
+16899,1,West Portal Ave & 15th Ave,57
+17205,3,West Portal Ave & Sloat Blvd,KBUS,57,91
+16904,1,West Portal Ave & Vicente St,57
+17109,0,West Portal/Sloat/St Francis Circle
+16503,1,West Portal/Sloat/St Francis Circle,91
+16740,0,West Portal Station
+16739,0,West Portal Station
+16981,1,Whitney St & Fairmount Street,36
+16983,1,Whitney Young Cir & Progress St,44
+16982,2,Whitney Young Cir & Progress St,44,44
+16944,1,Wilde Ave & Brussels St,56
+16945,1,Wilde Ave & Delta St,56
+16946,1,Wilde Ave & Girard St,56
+16949,1,Wilde Ave & Goettingen St,56
+17061,1,Wilde Ave & Rutland St,56
+16968,0,Williams Ave & 3rd St
+16969,0,Williams Ave & 3rd St
+16970,1,Williams Ave & Reddy St,54
+16951,3,Winston Dr & 20th Ave,58,18,29
+16950,2,Winston Dr & 20th Ave,29,29
+16953,3,Winston Dr & Buckingham Way,58,18,29
+16952,5,Winston Dr & Buckingham Way,58,18,29,29,18
+16954,6,Winston Dr & Lake Merced Blvd,58,18,29,29,18,57
+16955,4,Winston Dr & Lake Merced Blvd,58,57,18,29
+13513,2,Wisconsin St &  25th St,19,48
+16961,1,Wisconsin St & 25th St,19
+16964,1,Wisconsin St & Connecticut St,19
+16933,4,Woodside Ave & Balceta Ave,LOWL,36,52,44
+16935,4,Woodside Ave & Hernandez Ave,LOWL,36,52,44
+16934,4,Woodside Ave & Hernandez Ave,LOWL,44,36,52
+16938,3,Woodside Ave & Portola Dr,LOWL,36,52
+16937,5,Woodside Ave & Portola Dr,36,KBUS,LOWL,52,44
+16939,4,Woodside Ave & Ulloa St,LOWL,44,36,52
+16940,4,Woodside Ave & Ulloa St,LOWL,36,52,44
+16972,1,Woolsey St & Bowdoin St,54
+16971,1,Woolsey St & Bowdoin St,54
+16979,1,Woolsey St & Hamilton St,54
+16978,1,Woolsey St & Hamilton St,54
+16980,1,Woolsey St & University St,54
+16986,1,Yerba Buena Ave & Brentwood Ave,43
+16985,1,Yerba Buena Ave & Brentwood Ave,43
+16988,1,Yerba Buena Ave & Hazelwood Ave,43
+16987,1,Yerba Buena Ave & Hazelwood Ave,43
+16989,1,Yerba Buena Ave & Ravenwood Dr,43
+16990,1,Yerba Buena Ave & Saint Elmo Way,43
+17878,0,Yerba Buena/Moscone Station Northbound
+17873,0,Yerba Buena/Moscone Station Southbound
+17624,1,Zoo Rd & Amory Rd,58
+17951,1,Zoo Rd & Skyline Blvd,58
