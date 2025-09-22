@@ -21,7 +21,7 @@ def read_xml_file(filepath: str) -> str:
         with open(filepath, 'r', encoding='iso-8859-1') as f:
             return f.read()
 
-xml_content = read_xml_file("lines.xml")
+xml_content = read_xml_file("Data/lines.xml")  # Update this line
 
 try:
     tree = ET.ElementTree(ET.fromstring(xml_content))
